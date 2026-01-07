@@ -1,0 +1,1576 @@
+pais,variavel,ano,valor,data
+Bolivia,PIB (% crescimento),2000,2.50781080899505,2000-01-01
+Bolivia,PIB (% crescimento),2001,1.68379912721821,2001-01-01
+Bolivia,PIB (% crescimento),2002,2.48556573783827,2002-01-01
+Bolivia,PIB (% crescimento),2003,2.7113398370071,2003-01-01
+Bolivia,PIB (% crescimento),2004,4.17329558916195,2004-01-01
+Bolivia,PIB (% crescimento),2005,4.42143312687995,2005-01-01
+Bolivia,PIB (% crescimento),2006,4.79700882356046,2006-01-01
+Bolivia,PIB (% crescimento),2007,4.56438426887904,2007-01-01
+Bolivia,PIB (% crescimento),2008,6.14849787462195,2008-01-01
+Bolivia,PIB (% crescimento),2009,3.35699957430558,2009-01-01
+Bolivia,PIB (% crescimento),2010,4.12672259105658,2010-01-01
+Bolivia,PIB (% crescimento),2011,5.20409244308591,2011-01-01
+Bolivia,PIB (% crescimento),2012,5.12227558091767,2012-01-01
+Bolivia,PIB (% crescimento),2013,6.79601142810857,2013-01-01
+Bolivia,PIB (% crescimento),2014,5.46056950635116,2014-01-01
+Bolivia,PIB (% crescimento),2015,4.8571871797142,2015-01-01
+Bolivia,PIB (% crescimento),2016,4.26392086382097,2016-01-01
+Bolivia,PIB (% crescimento),2017,4.19520633360403,2017-01-01
+Bolivia,PIB (% crescimento),2018,2.86808404814794,2018-01-01
+Bolivia,PIB (% crescimento),2019,1.50672102666863,2019-01-01
+Bolivia,PIB (% crescimento),2020,-12.7194690092717,2020-01-01
+Bolivia,PIB (% crescimento),2021,10.0290488827886,2021-01-01
+Bolivia,PIB (% crescimento),2022,3.74741781241461,2022-01-01
+Bolivia,PIB (% crescimento),2023,2.51636590154891,2023-01-01
+Bolivia,PIB (% crescimento),2024,-1.12335595517212,2024-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2000,4.60822998872598,2000-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2001,1.58965377879568,2001-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2002,0.92825885161107,2002-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2003,3.33727499671534,2003-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2004,4.43738080101725,2004-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2005,5.39323106890663,2005-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2006,4.28239604802561,2006-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2007,8.70560923578869,2007-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2008,14.0068107702519,2008-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2009,3.34645420142014,2009-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2010,2.50327605844241,2010-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2011,9.88446419823883,2011-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2012,4.51560291399376,2012-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2013,5.73640023719607,2013-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2014,5.76660074579144,2014-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2015,4.05961041135645,2015-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2016,3.62321431764138,2016-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2017,2.8227580554717,2017-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2018,2.27205987230155,2018-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2019,1.83954504969026,2019-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2020,0.940742153381849,2020-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2021,0.737383721452275,2021-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2022,1.74632872945969,2022-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2023,2.57688800489192,2023-01-01
+Bolivia,"Taxa de Inflação (%, CPI)",2024,5.09976568317427,2024-01-01
+Bolivia,Taxa de Juros real (%),2000,27.9483957185948,2000-01-01
+Bolivia,Taxa de Juros real (%),2001,17.8530979126692,2001-01-01
+Bolivia,Taxa de Juros real (%),2002,17.3230579080153,2002-01-01
+Bolivia,Taxa de Juros real (%),2003,10.6586077125964,2003-01-01
+Bolivia,Taxa de Juros real (%),2004,6.02233191168458,2004-01-01
+Bolivia,Taxa de Juros real (%),2005,10.0756689351212,2005-01-01
+Bolivia,Taxa de Juros real (%),2006,-1.55933382958267,2006-01-01
+Bolivia,Taxa de Juros real (%),2007,5.11062966265615,2007-01-01
+Bolivia,Taxa de Juros real (%),2008,3.16372004257659,2008-01-01
+Bolivia,Taxa de Juros real (%),2009,15.1460374289771,2009-01-01
+Bolivia,Taxa de Juros real (%),2010,1.04104152848907,2010-01-01
+Bolivia,Taxa de Juros real (%),2011,-3.21717814892899,2011-01-01
+Bolivia,Taxa de Juros real (%),2012,3.76719139203379,2012-01-01
+Bolivia,Taxa de Juros real (%),2013,4.77002914125722,2013-01-01
+Bolivia,Taxa de Juros real (%),2014,7.49119854684631,2014-01-01
+Bolivia,Taxa de Juros real (%),2015,13.3088029026579,2015-01-01
+Bolivia,Taxa de Juros real (%),2016,9.43472495453866,2016-01-01
+Bolivia,Taxa de Juros real (%),2017,-16.7532693506203,2017-01-01
+Bolivia,Taxa de Juros real (%),2018,5.42778018252471,2018-01-01
+Bolivia,Taxa de Juros real (%),2019,8.5914640600721,2019-01-01
+Bolivia,Taxa de Juros real (%),2020,8.87150552672699,2020-01-01
+Bolivia,Taxa de Juros real (%),2021,5.03808285038352,2021-01-01
+Bolivia,Taxa de Juros real (%),2022,5.04331357723288,2022-01-01
+Bolivia,Taxa de Juros real (%),2023,8.4388029688758,2023-01-01
+Bolivia,Taxa de Juros real (%),2024,NA,2024-01-01
+Bolivia,Taxa de Desemprego (%),2000,4.47,2000-01-01
+Bolivia,Taxa de Desemprego (%),2001,5.24,2001-01-01
+Bolivia,Taxa de Desemprego (%),2002,5.48,2002-01-01
+Bolivia,Taxa de Desemprego (%),2003,NA,2003-01-01
+Bolivia,Taxa de Desemprego (%),2004,4.17,2004-01-01
+Bolivia,Taxa de Desemprego (%),2005,5.45,2005-01-01
+Bolivia,Taxa de Desemprego (%),2006,5.08,2006-01-01
+Bolivia,Taxa de Desemprego (%),2007,5.18,2007-01-01
+Bolivia,Taxa de Desemprego (%),2008,2.603,2008-01-01
+Bolivia,Taxa de Desemprego (%),2009,2.973,2009-01-01
+Bolivia,Taxa de Desemprego (%),2010,NA,2010-01-01
+Bolivia,Taxa de Desemprego (%),2011,2.255,2011-01-01
+Bolivia,Taxa de Desemprego (%),2012,2.066,2012-01-01
+Bolivia,Taxa de Desemprego (%),2013,2.437,2013-01-01
+Bolivia,Taxa de Desemprego (%),2014,2.021,2014-01-01
+Bolivia,Taxa de Desemprego (%),2015,3.111,2015-01-01
+Bolivia,Taxa de Desemprego (%),2016,3.498,2016-01-01
+Bolivia,Taxa de Desemprego (%),2017,3.655,2017-01-01
+Bolivia,Taxa de Desemprego (%),2018,3.519,2018-01-01
+Bolivia,Taxa de Desemprego (%),2019,3.682,2019-01-01
+Bolivia,Taxa de Desemprego (%),2020,7.903,2020-01-01
+Bolivia,Taxa de Desemprego (%),2021,4.936,2021-01-01
+Bolivia,Taxa de Desemprego (%),2022,3.452,2022-01-01
+Bolivia,Taxa de Desemprego (%),2023,2.948,2023-01-01
+Bolivia,Taxa de Desemprego (%),2024,2.73,2024-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2000,6.18354166666667,2000-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2001,6.60691666666667,2001-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2002,7.17,2002-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2003,7.65916666666667,2003-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2004,7.93626666666666,2004-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2005,8.0660625,2005-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2006,8.01161666666667,2006-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2007,7.85124516125,2007-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2008,7.23832069891666,2008-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2009,7.02,2009-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2010,7.01666666666667,2010-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2011,6.9369625,2011-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2012,6.91,2012-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2013,6.91,2013-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2014,6.91,2014-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2015,6.91,2015-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2016,6.91,2016-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2017,6.91,2017-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2018,6.91,2018-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2019,6.91,2019-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2020,6.91,2020-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2021,6.91,2021-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2022,6.91,2022-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2023,6.91,2023-01-01
+Bolivia,"Taxa de Câmbio (UMC/US$, média)",2024,6.91,2024-01-01
+Brazil,PIB (% crescimento),2000,4.38794944364869,2000-01-01
+Brazil,PIB (% crescimento),2001,1.3898964044581,2001-01-01
+Brazil,PIB (% crescimento),2002,3.05346185683619,2002-01-01
+Brazil,PIB (% crescimento),2003,1.14082899877101,2003-01-01
+Brazil,PIB (% crescimento),2004,5.75996463685998,2004-01-01
+Brazil,PIB (% crescimento),2005,3.20213206216255,2005-01-01
+Brazil,PIB (% crescimento),2006,3.96198870899485,2006-01-01
+Brazil,PIB (% crescimento),2007,6.06987060733128,2007-01-01
+Brazil,PIB (% crescimento),2008,5.09419544811998,2008-01-01
+Brazil,PIB (% crescimento),2009,-0.12581200299141,2009-01-01
+Brazil,PIB (% crescimento),2010,7.52822581812151,2010-01-01
+Brazil,PIB (% crescimento),2011,3.97442307944702,2011-01-01
+Brazil,PIB (% crescimento),2012,1.92117598509462,2012-01-01
+Brazil,PIB (% crescimento),2013,3.0048226702888,2013-01-01
+Brazil,PIB (% crescimento),2014,0.503955740273241,2014-01-01
+Brazil,PIB (% crescimento),2015,-3.54576339347278,2015-01-01
+Brazil,PIB (% crescimento),2016,-3.2759169063211,2016-01-01
+Brazil,PIB (% crescimento),2017,1.32286905390815,2017-01-01
+Brazil,PIB (% crescimento),2018,1.78366676137003,2018-01-01
+Brazil,PIB (% crescimento),2019,1.22077782271943,2019-01-01
+Brazil,PIB (% crescimento),2020,-3.27675879612903,2020-01-01
+Brazil,PIB (% crescimento),2021,4.7626043797061,2021-01-01
+Brazil,PIB (% crescimento),2022,3.01669435408112,2022-01-01
+Brazil,PIB (% crescimento),2023,3.24165532813583,2023-01-01
+Brazil,PIB (% crescimento),2024,3.41931516597739,2024-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2000,7.04414105947266,2000-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2001,6.84035902487523,2001-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2002,8.45016437708331,2002-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2003,14.7149197228147,2003-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2004,6.59718509985963,2004-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2005,6.86953720898964,2005-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2006,4.18356812896909,2006-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2007,3.64127299102652,2007-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2008,5.67859390284168,2008-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2009,4.88803479876799,2009-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2010,5.03872690108075,2010-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2011,6.6364496221309,2011-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2012,5.40349914036997,2012-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2013,6.20431066640101,2013-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2014,6.32904015516139,2014-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2015,9.02990102416136,2015-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2016,8.73914352329393,2016-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2017,3.44637335032669,2017-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2018,3.66485028376729,2018-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2019,3.73297621216894,2019-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2020,3.21176803803376,2020-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2021,8.30165975585673,2021-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2022,9.28010608956873,2022-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2023,4.59356282283204,2023-01-01
+Brazil,"Taxa de Inflação (%, CPI)",2024,4.36746407652337,2024-01-01
+Brazil,Taxa de Juros real (%),2000,48.5047281831843,2000-01-01
+Brazil,Taxa de Juros real (%),2001,45.6378187168126,2001-01-01
+Brazil,Taxa de Juros real (%),2002,48.3404374497978,2002-01-01
+Brazil,Taxa de Juros real (%),2003,46.447398837078,2003-01-01
+Brazil,Taxa de Juros real (%),2004,43.7791527215823,2004-01-01
+Brazil,Taxa de Juros real (%),2005,44.6351688572486,2005-01-01
+Brazil,Taxa de Juros real (%),2006,41.240326487245,2006-01-01
+Brazil,Taxa de Juros real (%),2007,35.022515450831,2007-01-01
+Brazil,Taxa de Juros real (%),2008,35.3667577888094,2008-01-01
+Brazil,Taxa de Juros real (%),2009,34.792009638163,2009-01-01
+Brazil,Taxa de Juros real (%),2010,29.1158055183638,2010-01-01
+Brazil,Taxa de Juros real (%),2011,32.8334595056712,2011-01-01
+Brazil,Taxa de Juros real (%),2012,26.582090535334,2012-01-01
+Brazil,Taxa de Juros real (%),2013,18.4988444169071,2013-01-01
+Brazil,Taxa de Juros real (%),2014,22.4036724327293,2014-01-01
+Brazil,Taxa de Juros real (%),2015,33.8323439713292,2015-01-01
+Brazil,Taxa de Juros real (%),2016,40.6983614299632,2016-01-01
+Brazil,Taxa de Juros real (%),2017,41.7138078837268,2017-01-01
+Brazil,Taxa de Juros real (%),2018,33.1023342525489,2018-01-01
+Brazil,Taxa de Juros real (%),2019,31.9030727574424,2019-01-01
+Brazil,Taxa de Juros real (%),2020,21.1971796693451,2020-01-01
+Brazil,Taxa de Juros real (%),2021,15.0108849846562,2021-01-01
+Brazil,Taxa de Juros real (%),2022,28.3960928180404,2022-01-01
+Brazil,Taxa de Juros real (%),2023,36.554470620355,2023-01-01
+Brazil,Taxa de Juros real (%),2024,34.7285151444461,2024-01-01
+Brazil,Taxa de Desemprego (%),2000,NA,2000-01-01
+Brazil,Taxa de Desemprego (%),2001,10.649,2001-01-01
+Brazil,Taxa de Desemprego (%),2002,10.641,2002-01-01
+Brazil,Taxa de Desemprego (%),2003,11.168,2003-01-01
+Brazil,Taxa de Desemprego (%),2004,10.072,2004-01-01
+Brazil,Taxa de Desemprego (%),2005,10.551,2005-01-01
+Brazil,Taxa de Desemprego (%),2006,9.692,2006-01-01
+Brazil,Taxa de Desemprego (%),2007,9.28,2007-01-01
+Brazil,Taxa de Desemprego (%),2008,8.268,2008-01-01
+Brazil,Taxa de Desemprego (%),2009,9.419,2009-01-01
+Brazil,Taxa de Desemprego (%),2010,NA,2010-01-01
+Brazil,Taxa de Desemprego (%),2011,7.578,2011-01-01
+Brazil,Taxa de Desemprego (%),2012,7.251,2012-01-01
+Brazil,Taxa de Desemprego (%),2013,7.071,2013-01-01
+Brazil,Taxa de Desemprego (%),2014,6.755,2014-01-01
+Brazil,Taxa de Desemprego (%),2015,8.538,2015-01-01
+Brazil,Taxa de Desemprego (%),2016,11.58,2016-01-01
+Brazil,Taxa de Desemprego (%),2017,12.792,2017-01-01
+Brazil,Taxa de Desemprego (%),2018,12.329,2018-01-01
+Brazil,Taxa de Desemprego (%),2019,11.936,2019-01-01
+Brazil,Taxa de Desemprego (%),2020,13.697,2020-01-01
+Brazil,Taxa de Desemprego (%),2021,13.158,2021-01-01
+Brazil,Taxa de Desemprego (%),2022,9.231,2022-01-01
+Brazil,Taxa de Desemprego (%),2023,7.947,2023-01-01
+Brazil,Taxa de Desemprego (%),2024,6.801,2024-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2000,1.82942312207561,2000-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2001,2.34963170932244,2001-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2002,2.92036301775519,2002-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2003,3.07747511847802,2003-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2004,2.92511944951586,2004-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2005,2.43439003623188,2005-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2006,2.17532666666667,2006-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2007,1.94705833333333,2007-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2008,1.83376666666667,2008-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2009,1.99942817314426,2009-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2010,1.75922671058718,2010-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2011,1.67282875525659,2011-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2012,1.95306861112487,2012-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2013,2.15608915126311,2013-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2014,2.35295196276669,2014-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2015,3.32690438276879,2015-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2016,3.49131342157271,2016-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2017,3.19138944630048,2017-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2018,3.65382536145755,2018-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2019,3.9444710972507,2019-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2020,5.15517878751281,2020-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2021,5.39440078962503,2021-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2022,5.16397029102111,2022-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2023,4.99437976287199,2023-01-01
+Brazil,"Taxa de Câmbio (UMC/US$, média)",2024,5.3889349057096,2024-01-01
+Argentina,PIB (% crescimento),2000,-0.78899893905691,2000-01-01
+Argentina,PIB (% crescimento),2001,-4.40883968258557,2001-01-01
+Argentina,PIB (% crescimento),2002,-10.8944848285903,2002-01-01
+Argentina,PIB (% crescimento),2003,8.83704079576924,2003-01-01
+Argentina,PIB (% crescimento),2004,9.02957330068152,2004-01-01
+Argentina,PIB (% crescimento),2005,8.85165992013437,2005-01-01
+Argentina,PIB (% crescimento),2006,8.04715150043027,2006-01-01
+Argentina,PIB (% crescimento),2007,9.00765087504757,2007-01-01
+Argentina,PIB (% crescimento),2008,4.05723310346406,2008-01-01
+Argentina,PIB (% crescimento),2009,-5.91852507634947,2009-01-01
+Argentina,PIB (% crescimento),2010,10.1253981561002,2010-01-01
+Argentina,PIB (% crescimento),2011,6.00395169280579,2011-01-01
+Argentina,PIB (% crescimento),2012,-1.0264204544321,2012-01-01
+Argentina,PIB (% crescimento),2013,2.40532378079436,2013-01-01
+Argentina,PIB (% crescimento),2014,-2.51261532081394,2014-01-01
+Argentina,PIB (% crescimento),2015,2.73115982828944,2015-01-01
+Argentina,PIB (% crescimento),2016,-2.08032784377811,2016-01-01
+Argentina,PIB (% crescimento),2017,2.81850297775918,2017-01-01
+Argentina,PIB (% crescimento),2018,-2.61739646282038,2018-01-01
+Argentina,PIB (% crescimento),2019,-2.00086100285785,2019-01-01
+Argentina,PIB (% crescimento),2020,-9.9004848136464,2020-01-01
+Argentina,PIB (% crescimento),2021,10.4418119882506,2021-01-01
+Argentina,PIB (% crescimento),2022,6.02074537534855,2022-01-01
+Argentina,PIB (% crescimento),2023,-1.85578803046339,2023-01-01
+Argentina,PIB (% crescimento),2024,-1.34293072157739,2024-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2000,NA,2000-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2001,NA,2001-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2002,NA,2002-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2003,NA,2003-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2004,NA,2004-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2005,NA,2005-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2006,NA,2006-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2007,NA,2007-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2008,NA,2008-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2009,NA,2009-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2010,NA,2010-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2011,NA,2011-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2012,NA,2012-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2013,NA,2013-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2014,NA,2014-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2015,NA,2015-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2016,NA,2016-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2017,NA,2017-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2018,34.2772237131003,2018-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2019,53.5483043492339,2019-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2020,42.0150947376509,2020-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2021,48.4093786255199,2021-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2022,72.430757531824,2022-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2023,133.488935594175,2023-01-01
+Argentina,"Taxa de Inflação (%, CPI)",2024,219.883929014578,2024-01-01
+Argentina,Taxa de Juros real (%),2000,NA,2000-01-01
+Argentina,Taxa de Juros real (%),2001,NA,2001-01-01
+Argentina,Taxa de Juros real (%),2002,NA,2002-01-01
+Argentina,Taxa de Juros real (%),2003,NA,2003-01-01
+Argentina,Taxa de Juros real (%),2004,NA,2004-01-01
+Argentina,Taxa de Juros real (%),2005,NA,2005-01-01
+Argentina,Taxa de Juros real (%),2006,NA,2006-01-01
+Argentina,Taxa de Juros real (%),2007,NA,2007-01-01
+Argentina,Taxa de Juros real (%),2008,NA,2008-01-01
+Argentina,Taxa de Juros real (%),2009,NA,2009-01-01
+Argentina,Taxa de Juros real (%),2010,-8.56602872006595,2010-01-01
+Argentina,Taxa de Juros real (%),2011,-7.77340523607891,2011-01-01
+Argentina,Taxa de Juros real (%),2012,-6.74819555440488,2012-01-01
+Argentina,Taxa de Juros real (%),2013,-5.48583918237899,2013-01-01
+Argentina,Taxa de Juros real (%),2014,-11.6006987702161,2014-01-01
+Argentina,Taxa de Juros real (%),2015,-1.31470878459509,2015-01-01
+Argentina,Taxa de Juros real (%),2016,-7.00603984304116,2016-01-01
+Argentina,Taxa de Juros real (%),2017,0.455892832330463,2017-01-01
+Argentina,Taxa de Juros real (%),2018,4.56440909873515,2018-01-01
+Argentina,Taxa de Juros real (%),2019,12.1039696489828,2019-01-01
+Argentina,Taxa de Juros real (%),2020,-7.63517421630372,2020-01-01
+Argentina,Taxa de Juros real (%),2021,-11.8618379621172,2021-01-01
+Argentina,Taxa de Juros real (%),2022,-9.81968419782897,2022-01-01
+Argentina,Taxa de Juros real (%),2023,-17.2542810000345,2023-01-01
+Argentina,Taxa de Juros real (%),2024,-47.4304580263773,2024-01-01
+Argentina,Taxa de Desemprego (%),2000,15,2000-01-01
+Argentina,Taxa de Desemprego (%),2001,17.32,2001-01-01
+Argentina,Taxa de Desemprego (%),2002,19.59,2002-01-01
+Argentina,Taxa de Desemprego (%),2003,15.36,2003-01-01
+Argentina,Taxa de Desemprego (%),2004,13.522,2004-01-01
+Argentina,Taxa de Desemprego (%),2005,11.506,2005-01-01
+Argentina,Taxa de Desemprego (%),2006,10.078,2006-01-01
+Argentina,Taxa de Desemprego (%),2007,8.47,2007-01-01
+Argentina,Taxa de Desemprego (%),2008,7.837,2008-01-01
+Argentina,Taxa de Desemprego (%),2009,8.645,2009-01-01
+Argentina,Taxa de Desemprego (%),2010,7.714,2010-01-01
+Argentina,Taxa de Desemprego (%),2011,7.18,2011-01-01
+Argentina,Taxa de Desemprego (%),2012,7.217,2012-01-01
+Argentina,Taxa de Desemprego (%),2013,7.1,2013-01-01
+Argentina,Taxa de Desemprego (%),2014,7.268,2014-01-01
+Argentina,Taxa de Desemprego (%),2015,NA,2015-01-01
+Argentina,Taxa de Desemprego (%),2016,NA,2016-01-01
+Argentina,Taxa de Desemprego (%),2017,8.347,2017-01-01
+Argentina,Taxa de Desemprego (%),2018,9.22,2018-01-01
+Argentina,Taxa de Desemprego (%),2019,9.843,2019-01-01
+Argentina,Taxa de Desemprego (%),2020,11.461,2020-01-01
+Argentina,Taxa de Desemprego (%),2021,8.736,2021-01-01
+Argentina,Taxa de Desemprego (%),2022,6.805,2022-01-01
+Argentina,Taxa de Desemprego (%),2023,6.139,2023-01-01
+Argentina,Taxa de Desemprego (%),2024,1.694,2024-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2000,0.9995,2000-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2001,0.9995,2001-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2002,3.06325666666667,2002-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2003,2.90062916666667,2003-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2004,2.92330081890332,2004-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2005,2.9036575,2005-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2006,3.05431333333333,2006-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2007,3.09564884920635,2007-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2008,3.14416455988456,2008-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2009,3.71010683052328,2009-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2010,3.8962951544705,2010-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2011,4.11013957621326,2011-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2012,4.53693436018746,2012-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2013,5.45935266465704,2013-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2014,8.07527599281334,2014-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2015,9.23318552472429,2015-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2016,14.7581750873396,2016-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2017,16.5627069251411,2017-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2018,28.0949916666667,2018-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2019,48.1478916666667,2019-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2020,70.5391666666667,2020-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2021,94.9907416666667,2021-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2022,130.61655,2022-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2023,296.258041666667,2023-01-01
+Argentina,"Taxa de Câmbio (UMC/US$, média)",2024,914.694883333333,2024-01-01
+Chile,PIB (% crescimento),2000,4.9716214882971,2000-01-01
+Chile,PIB (% crescimento),2001,3.15403492459967,2001-01-01
+Chile,PIB (% crescimento),2002,3.20279913520113,2002-01-01
+Chile,PIB (% crescimento),2003,4.72324526861041,2003-01-01
+Chile,PIB (% crescimento),2004,6.67425416822923,2004-01-01
+Chile,PIB (% crescimento),2005,5.83704571917758,2005-01-01
+Chile,PIB (% crescimento),2006,6.04999082563968,2006-01-01
+Chile,PIB (% crescimento),2007,5.16823098528431,2007-01-01
+Chile,PIB (% crescimento),2008,3.78939280635238,2008-01-01
+Chile,PIB (% crescimento),2009,-1.11803723642878,2009-01-01
+Chile,PIB (% crescimento),2010,5.85165102224047,2010-01-01
+Chile,PIB (% crescimento),2011,6.22389678509138,2011-01-01
+Chile,PIB (% crescimento),2012,6.15534001855494,2012-01-01
+Chile,PIB (% crescimento),2013,3.30850824710085,2013-01-01
+Chile,PIB (% crescimento),2014,1.79264947139259,2014-01-01
+Chile,PIB (% crescimento),2015,2.15194249981184,2015-01-01
+Chile,PIB (% crescimento),2016,1.753038749071,2016-01-01
+Chile,PIB (% crescimento),2017,1.35769537343957,2017-01-01
+Chile,PIB (% crescimento),2018,3.99002947789977,2018-01-01
+Chile,PIB (% crescimento),2019,0.634367533828438,2019-01-01
+Chile,PIB (% crescimento),2020,-6.14347479224092,2020-01-01
+Chile,PIB (% crescimento),2021,11.3149204879049,2021-01-01
+Chile,PIB (% crescimento),2022,2.15399356192458,2022-01-01
+Chile,PIB (% crescimento),2023,0.521367977246825,2023-01-01
+Chile,PIB (% crescimento),2024,2.64431154871538,2024-01-01
+Chile,"Taxa de Inflação (%, CPI)",2000,3.84327295706565,2000-01-01
+Chile,"Taxa de Inflação (%, CPI)",2001,3.56910053001467,2001-01-01
+Chile,"Taxa de Inflação (%, CPI)",2002,2.48939816650705,2002-01-01
+Chile,"Taxa de Inflação (%, CPI)",2003,2.8101787574361,2003-01-01
+Chile,"Taxa de Inflação (%, CPI)",2004,1.05473871403517,2004-01-01
+Chile,"Taxa de Inflação (%, CPI)",2005,3.05257621387849,2005-01-01
+Chile,"Taxa de Inflação (%, CPI)",2006,3.39201733699405,2006-01-01
+Chile,"Taxa de Inflação (%, CPI)",2007,4.40779938398044,2007-01-01
+Chile,"Taxa de Inflação (%, CPI)",2008,8.71626873039607,2008-01-01
+Chile,"Taxa de Inflação (%, CPI)",2009,0.353045178360937,2009-01-01
+Chile,"Taxa de Inflação (%, CPI)",2010,1.41071107954321,2010-01-01
+Chile,"Taxa de Inflação (%, CPI)",2011,3.34121694259302,2011-01-01
+Chile,"Taxa de Inflação (%, CPI)",2012,3.00744840213047,2012-01-01
+Chile,"Taxa de Inflação (%, CPI)",2013,1.7895555398459,2013-01-01
+Chile,"Taxa de Inflação (%, CPI)",2014,4.71867527854672,2014-01-01
+Chile,"Taxa de Inflação (%, CPI)",2015,4.34877353217044,2015-01-01
+Chile,"Taxa de Inflação (%, CPI)",2016,3.78619355893118,2016-01-01
+Chile,"Taxa de Inflação (%, CPI)",2017,2.18271846868519,2017-01-01
+Chile,"Taxa de Inflação (%, CPI)",2018,2.43488981353057,2018-01-01
+Chile,"Taxa de Inflação (%, CPI)",2019,2.55754475703327,2019-01-01
+Chile,"Taxa de Inflação (%, CPI)",2020,3.04549084804326,2020-01-01
+Chile,"Taxa de Inflação (%, CPI)",2021,4.52456838259144,2021-01-01
+Chile,"Taxa de Inflação (%, CPI)",2022,11.643866711056,2022-01-01
+Chile,"Taxa de Inflação (%, CPI)",2023,7.58168251407962,2023-01-01
+Chile,"Taxa de Inflação (%, CPI)",2024,4.29763891572524,2024-01-01
+Chile,Taxa de Juros real (%),2000,9.83487325107737,2000-01-01
+Chile,Taxa de Juros real (%),2001,7.30156423972337,2001-01-01
+Chile,Taxa de Juros real (%),2002,4.27461224669902,2002-01-01
+Chile,Taxa de Juros real (%),2003,1.80102821473996,2003-01-01
+Chile,Taxa de Juros real (%),2004,-1.77319533208462,2004-01-01
+Chile,Taxa de Juros real (%),2005,-0.413027483221684,2005-01-01
+Chile,Taxa de Juros real (%),2006,-3.87220104358338,2006-01-01
+Chile,Taxa de Juros real (%),2007,3.40902444709341,2007-01-01
+Chile,Taxa de Juros real (%),2008,12.910470199151,2008-01-01
+Chile,Taxa de Juros real (%),2009,3.54597211267265,2009-01-01
+Chile,Taxa de Juros real (%),2010,-3.76879580128201,2010-01-01
+Chile,Taxa de Juros real (%),2011,5.58745776542778,2011-01-01
+Chile,Taxa de Juros real (%),2012,9.22337834222408,2012-01-01
+Chile,Taxa de Juros real (%),2013,6.84632643680273,2013-01-01
+Chile,Taxa de Juros real (%),2014,2.12102531001641,2014-01-01
+Chile,Taxa de Juros real (%),2015,0.534100501734634,2015-01-01
+Chile,Taxa de Juros real (%),2016,0.982913248021622,2016-01-01
+Chile,Taxa de Juros real (%),2017,-0.262655305184403,2017-01-01
+Chile,Taxa de Juros real (%),2018,2.54731216179179,2018-01-01
+Chile,Taxa de Juros real (%),2019,NA,2019-01-01
+Chile,Taxa de Juros real (%),2020,NA,2020-01-01
+Chile,Taxa de Juros real (%),2021,NA,2021-01-01
+Chile,Taxa de Juros real (%),2022,NA,2022-01-01
+Chile,Taxa de Juros real (%),2023,NA,2023-01-01
+Chile,Taxa de Juros real (%),2024,NA,2024-01-01
+Chile,Taxa de Desemprego (%),2000,10.491,2000-01-01
+Chile,Taxa de Desemprego (%),2001,10.39,2001-01-01
+Chile,Taxa de Desemprego (%),2002,10.168,2002-01-01
+Chile,Taxa de Desemprego (%),2003,9.765,2003-01-01
+Chile,Taxa de Desemprego (%),2004,10.162,2004-01-01
+Chile,Taxa de Desemprego (%),2005,9.34,2005-01-01
+Chile,Taxa de Desemprego (%),2006,9.024,2006-01-01
+Chile,Taxa de Desemprego (%),2007,8.427,2007-01-01
+Chile,Taxa de Desemprego (%),2008,9.285,2008-01-01
+Chile,Taxa de Desemprego (%),2009,11.313,2009-01-01
+Chile,Taxa de Desemprego (%),2010,8.547,2010-01-01
+Chile,Taxa de Desemprego (%),2011,7.492,2011-01-01
+Chile,Taxa de Desemprego (%),2012,6.79,2012-01-01
+Chile,Taxa de Desemprego (%),2013,6.361,2013-01-01
+Chile,Taxa de Desemprego (%),2014,6.761,2014-01-01
+Chile,Taxa de Desemprego (%),2015,6.605,2015-01-01
+Chile,Taxa de Desemprego (%),2016,6.926,2016-01-01
+Chile,Taxa de Desemprego (%),2017,7.257,2017-01-01
+Chile,Taxa de Desemprego (%),2018,7.673,2018-01-01
+Chile,Taxa de Desemprego (%),2019,7.559,2019-01-01
+Chile,Taxa de Desemprego (%),2020,11.18,2020-01-01
+Chile,Taxa de Desemprego (%),2021,9.417,2021-01-01
+Chile,Taxa de Desemprego (%),2022,8.331,2022-01-01
+Chile,Taxa de Desemprego (%),2023,9.091,2023-01-01
+Chile,Taxa de Desemprego (%),2024,8.756,2024-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2000,539.5875,2000-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2001,634.938333333334,2001-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2002,688.936666666667,2002-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2003,691.3975,2003-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2004,609.529166666667,2004-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2005,559.7675,2005-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2006,530.275,2006-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2007,522.464166666667,2007-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2008,522.461035833334,2008-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2009,560.85989484127,2009-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2010,510.249166666667,2010-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2011,483.6675,2011-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2012,486.471303391053,2012-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2013,495.272877645503,2013-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2014,570.34821612744,2014-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2015,654.124084254196,2015-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2016,676.957736044657,2016-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2017,648.833792598261,2017-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2018,641.276813066395,2018-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2019,702.897422561529,2019-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2020,792.727206103169,2020-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2021,758.955378658977,2021-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2022,873.314189543014,2022-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2023,840.066526651499,2023-01-01
+Chile,"Taxa de Câmbio (UMC/US$, média)",2024,943.572167421488,2024-01-01
+Colombia,PIB (% crescimento),2000,2.92486148176778,2000-01-01
+Colombia,PIB (% crescimento),2001,1.67789830787579,2001-01-01
+Colombia,PIB (% crescimento),2002,2.50398046659659,2002-01-01
+Colombia,PIB (% crescimento),2003,3.91827190322513,2003-01-01
+Colombia,PIB (% crescimento),2004,5.33302206759905,2004-01-01
+Colombia,PIB (% crescimento),2005,4.82876110773741,2005-01-01
+Colombia,PIB (% crescimento),2006,6.71686869844402,2006-01-01
+Colombia,PIB (% crescimento),2007,6.73819469090975,2007-01-01
+Colombia,PIB (% crescimento),2008,3.28344618616541,2008-01-01
+Colombia,PIB (% crescimento),2009,1.13964864548062,2009-01-01
+Colombia,PIB (% crescimento),2010,4.49465897070922,2010-01-01
+Colombia,PIB (% crescimento),2011,6.94789198173555,2011-01-01
+Colombia,PIB (% crescimento),2012,3.91263576716115,2012-01-01
+Colombia,PIB (% crescimento),2013,5.13399351995672,2013-01-01
+Colombia,PIB (% crescimento),2014,4.49903000110972,2014-01-01
+Colombia,PIB (% crescimento),2015,2.95590137527523,2015-01-01
+Colombia,PIB (% crescimento),2016,2.08738250162794,2016-01-01
+Colombia,PIB (% crescimento),2017,1.35936086788746,2017-01-01
+Colombia,PIB (% crescimento),2018,2.56432428277704,2018-01-01
+Colombia,PIB (% crescimento),2019,3.18685539245533,2019-01-01
+Colombia,PIB (% crescimento),2020,-7.18591413760859,2020-01-01
+Colombia,PIB (% crescimento),2021,10.8011981904878,2021-01-01
+Colombia,PIB (% crescimento),2022,7.32827729427979,2022-01-01
+Colombia,PIB (% crescimento),2023,0.712380031974334,2023-01-01
+Colombia,PIB (% crescimento),2024,1.5983315366523,2024-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2000,9.22534818585366,2000-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2001,7.96556090304834,2001-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2002,6.35150728778872,2002-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2003,7.1297886294186,2003-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2004,5.90402005546502,2004-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2005,5.05101962689696,2005-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2006,4.29342363628927,2006-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2007,5.54438485815156,2007-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2008,6.99688495554511,2008-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2009,4.20251661216482,2009-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2010,2.27200227892008,2010-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2011,3.4150334477625,2011-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2012,3.16930188840055,2012-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2013,2.01699224310383,2013-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2014,2.89883787761738,2014-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2015,4.9898311584953,2015-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2016,7.51346024627675,2016-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2017,4.31431325695011,2017-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2018,3.24056932930569,2018-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2019,3.52301932741447,2019-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2020,2.52663500084706,2020-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2021,3.49505757399448,2021-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2022,10.1772313546166,2022-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2023,11.7359044948689,2023-01-01
+Colombia,"Taxa de Inflação (%, CPI)",2024,6.60908593728228,2024-01-01
+Colombia,Taxa de Juros real (%),2000,-11.1379559197298,2000-01-01
+Colombia,Taxa de Juros real (%),2001,13.3324808386691,2001-01-01
+Colombia,Taxa de Juros real (%),2002,9.77520490167072,2002-01-01
+Colombia,Taxa de Juros real (%),2003,7.8237979777331,2003-01-01
+Colombia,Taxa de Juros real (%),2004,7.27050966250741,2004-01-01
+Colombia,Taxa de Juros real (%),2005,9.36261382966903,2005-01-01
+Colombia,Taxa de Juros real (%),2006,6.6972959736936,2006-01-01
+Colombia,Taxa de Juros real (%),2007,9.67644438040683,2007-01-01
+Colombia,Taxa de Juros real (%),2008,8.82101697806755,2008-01-01
+Colombia,Taxa de Juros real (%),2009,8.594547353573,2009-01-01
+Colombia,Taxa de Juros real (%),2010,5.3722240266131,2010-01-01
+Colombia,Taxa de Juros real (%),2011,4.54296484242238,2011-01-01
+Colombia,Taxa de Juros real (%),2012,8.65535095377731,2012-01-01
+Colombia,Taxa de Juros real (%),2013,8.90797441037777,2013-01-01
+Colombia,Taxa de Juros real (%),2014,8.44294935194344,2014-01-01
+Colombia,Taxa de Juros real (%),2015,8.78547373201402,2015-01-01
+Colombia,Taxa de Juros real (%),2016,9.03209505722643,2016-01-01
+Colombia,Taxa de Juros real (%),2017,8.13449112757921,2017-01-01
+Colombia,Taxa de Juros real (%),2018,7.15306948982847,2018-01-01
+Colombia,Taxa de Juros real (%),2019,7.46754725861933,2019-01-01
+Colombia,Taxa de Juros real (%),2020,8.24660761552955,2020-01-01
+Colombia,Taxa de Juros real (%),2021,1.42458739401645,2021-01-01
+Colombia,Taxa de Juros real (%),2022,0.767867660015928,2022-01-01
+Colombia,Taxa de Juros real (%),2023,13.1631262778233,2023-01-01
+Colombia,Taxa de Juros real (%),2024,9.78943442272312,2024-01-01
+Colombia,Taxa de Desemprego (%),2000,20.52,2000-01-01
+Colombia,Taxa de Desemprego (%),2001,15.04,2001-01-01
+Colombia,Taxa de Desemprego (%),2002,14.481,2002-01-01
+Colombia,Taxa de Desemprego (%),2003,13.221,2003-01-01
+Colombia,Taxa de Desemprego (%),2004,12.736,2004-01-01
+Colombia,Taxa de Desemprego (%),2005,11.062,2005-01-01
+Colombia,Taxa de Desemprego (%),2006,NA,2006-01-01
+Colombia,Taxa de Desemprego (%),2007,10.252,2007-01-01
+Colombia,Taxa de Desemprego (%),2008,10.52,2008-01-01
+Colombia,Taxa de Desemprego (%),2009,11.319,2009-01-01
+Colombia,Taxa de Desemprego (%),2010,11.153,2010-01-01
+Colombia,Taxa de Desemprego (%),2011,10.288,2011-01-01
+Colombia,Taxa de Desemprego (%),2012,9.959,2012-01-01
+Colombia,Taxa de Desemprego (%),2013,9.246,2013-01-01
+Colombia,Taxa de Desemprego (%),2014,8.799,2014-01-01
+Colombia,Taxa de Desemprego (%),2015,8.572,2015-01-01
+Colombia,Taxa de Desemprego (%),2016,8.922,2016-01-01
+Colombia,Taxa de Desemprego (%),2017,9.086,2017-01-01
+Colombia,Taxa de Desemprego (%),2018,9.36,2018-01-01
+Colombia,Taxa de Desemprego (%),2019,10.28,2019-01-01
+Colombia,Taxa de Desemprego (%),2020,15.568,2020-01-01
+Colombia,Taxa de Desemprego (%),2021,13.898,2021-01-01
+Colombia,Taxa de Desemprego (%),2022,10.541,2022-01-01
+Colombia,Taxa de Desemprego (%),2023,9.591,2023-01-01
+Colombia,Taxa de Desemprego (%),2024,9.619,2024-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2000,2087.91833333333,2000-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2001,2299.89333333333,2001-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2002,2504.68083333333,2002-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2003,2877.54333333333,2003-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2004,2628.36833333333,2004-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2005,2321.13166666667,2005-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2006,2358.59460526316,2006-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2007,2077.81095833333,2007-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2008,1965.1375,2008-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2009,2157.59833333333,2009-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2010,1898.9975,2010-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2011,1848.01666666667,2011-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2012,1798.01166666667,2012-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2013,1868.895,2013-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2014,2001.105,2014-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2015,2741.78166666667,2015-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2016,3055.255,2016-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2017,2951.48691120161,2017-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2018,2955.70396997842,2018-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2019,3281.62219381788,2019-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2020,3693.27583333333,2020-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2021,3744.24416666667,2021-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2022,4256.19416666667,2022-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2023,4325.955,2023-01-01
+Colombia,"Taxa de Câmbio (UMC/US$, média)",2024,4074.43416666667,2024-01-01
+Uruguay,PIB (% crescimento),2000,-1.92993063549235,2000-01-01
+Uruguay,PIB (% crescimento),2001,-3.84412995940374,2001-01-01
+Uruguay,PIB (% crescimento),2002,-7.73200721540044,2002-01-01
+Uruguay,PIB (% crescimento),2003,0.805283915893824,2003-01-01
+Uruguay,PIB (% crescimento),2004,5.00416035564457,2004-01-01
+Uruguay,PIB (% crescimento),2005,7.4601321302473,2005-01-01
+Uruguay,PIB (% crescimento),2006,4.09857735445401,2006-01-01
+Uruguay,PIB (% crescimento),2007,6.54151084504817,2007-01-01
+Uruguay,PIB (% crescimento),2008,7.17614466455107,2008-01-01
+Uruguay,PIB (% crescimento),2009,4.24349419462426,2009-01-01
+Uruguay,PIB (% crescimento),2010,7.8034096507169,2010-01-01
+Uruguay,PIB (% crescimento),2011,5.16213302463606,2011-01-01
+Uruguay,PIB (% crescimento),2012,3.53817872056869,2012-01-01
+Uruguay,PIB (% crescimento),2013,4.63753862902416,2013-01-01
+Uruguay,PIB (% crescimento),2014,3.23879122952364,2014-01-01
+Uruguay,PIB (% crescimento),2015,0.370741257681345,2015-01-01
+Uruguay,PIB (% crescimento),2016,1.68979822971775,2016-01-01
+Uruguay,PIB (% crescimento),2017,1.74037643374211,2017-01-01
+Uruguay,PIB (% crescimento),2018,0.164777608940113,2018-01-01
+Uruguay,PIB (% crescimento),2019,0.928351141267498,2019-01-01
+Uruguay,PIB (% crescimento),2020,-7.35732706484723,2020-01-01
+Uruguay,PIB (% crescimento),2021,5.84427312558179,2021-01-01
+Uruguay,PIB (% crescimento),2022,4.48622703072073,2022-01-01
+Uruguay,PIB (% crescimento),2023,0.742128785315927,2023-01-01
+Uruguay,PIB (% crescimento),2024,3.10825478066172,2024-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2000,4.76382472733251,2000-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2001,4.3593406521727,2001-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2002,13.9724725913515,2002-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2003,19.3797301743995,2003-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2004,9.15760507540997,2004-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2005,4.6992773903564,2005-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2006,6.39764974385131,2006-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2007,8.11464561179313,2007-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2008,7.87707374730888,2008-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2009,7.06221874388574,2009-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2010,6.69870886978132,2010-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2011,8.0928320630299,2011-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2012,8.09776580573602,2012-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2013,8.57513504005397,2013-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2014,8.87735333229828,2014-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2015,8.66626987079328,2015-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2016,9.6394134763508,2016-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2017,6.2180938256186,2017-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2018,7.60653360377047,2018-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2019,7.88198870879619,2019-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2020,9.75640636078194,2020-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2021,7.74791402314762,2021-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2022,9.10437983075437,2022-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2023,5.86910359896119,2023-01-01
+Uruguay,"Taxa de Inflação (%, CPI)",2024,4.84914366613156,2024-01-01
+Uruguay,Taxa de Juros real (%),2000,42.4969239585892,2000-01-01
+Uruguay,Taxa de Juros real (%),2001,43.2064213627232,2001-01-01
+Uruguay,Taxa de Juros real (%),2002,93.9150781315778,2002-01-01
+Uruguay,Taxa de Juros real (%),2003,36.3812989440391,2003-01-01
+Uruguay,Taxa de Juros real (%),2004,12.3282787037608,2004-01-01
+Uruguay,Taxa de Juros real (%),2005,12.8445855762338,2005-01-01
+Uruguay,Taxa de Juros real (%),2006,1.7089111284159,2006-01-01
+Uruguay,Taxa de Juros real (%),2007,-1.24667058477178,2007-01-01
+Uruguay,Taxa de Juros real (%),2008,3.25541429163842,2008-01-01
+Uruguay,Taxa de Juros real (%),2009,6.13878422751171,2009-01-01
+Uruguay,Taxa de Juros real (%),2010,4.33049768870303,2010-01-01
+Uruguay,Taxa de Juros real (%),2011,-0.0851869359373854,2011-01-01
+Uruguay,Taxa de Juros real (%),2012,1.63260408891417,2012-01-01
+Uruguay,Taxa de Juros real (%),2013,3.15123121935886,2013-01-01
+Uruguay,Taxa de Juros real (%),2014,4.82076932063266,2014-01-01
+Uruguay,Taxa de Juros real (%),2015,5.44867158636638,2015-01-01
+Uruguay,Taxa de Juros real (%),2016,7.40056645689128,2016-01-01
+Uruguay,Taxa de Juros real (%),2017,7.71512605971872,2017-01-01
+Uruguay,Taxa de Juros real (%),2018,4.34831518079669,2018-01-01
+Uruguay,Taxa de Juros real (%),2019,3.04912855507661,2019-01-01
+Uruguay,Taxa de Juros real (%),2020,0.458650581277744,2020-01-01
+Uruguay,Taxa de Juros real (%),2021,-3.26214134619286,2021-01-01
+Uruguay,Taxa de Juros real (%),2022,5.43776304681268,2022-01-01
+Uruguay,Taxa de Juros real (%),2023,8.20235085615779,2023-01-01
+Uruguay,Taxa de Juros real (%),2024,5.39595354614294,2024-01-01
+Uruguay,Taxa de Desemprego (%),2000,12.627,2000-01-01
+Uruguay,Taxa de Desemprego (%),2001,15.052,2001-01-01
+Uruguay,Taxa de Desemprego (%),2002,16.648,2002-01-01
+Uruguay,Taxa de Desemprego (%),2003,16.661,2003-01-01
+Uruguay,Taxa de Desemprego (%),2004,12.98,2004-01-01
+Uruguay,Taxa de Desemprego (%),2005,12.009,2005-01-01
+Uruguay,Taxa de Desemprego (%),2006,10.844,2006-01-01
+Uruguay,Taxa de Desemprego (%),2007,9.403,2007-01-01
+Uruguay,Taxa de Desemprego (%),2008,8.025,2008-01-01
+Uruguay,Taxa de Desemprego (%),2009,7.74,2009-01-01
+Uruguay,Taxa de Desemprego (%),2010,7.158,2010-01-01
+Uruguay,Taxa de Desemprego (%),2011,6.307,2011-01-01
+Uruguay,Taxa de Desemprego (%),2012,6.451,2012-01-01
+Uruguay,Taxa de Desemprego (%),2013,6.444,2013-01-01
+Uruguay,Taxa de Desemprego (%),2014,6.547,2014-01-01
+Uruguay,Taxa de Desemprego (%),2015,7.488,2015-01-01
+Uruguay,Taxa de Desemprego (%),2016,7.841,2016-01-01
+Uruguay,Taxa de Desemprego (%),2017,7.89,2017-01-01
+Uruguay,Taxa de Desemprego (%),2018,8.336,2018-01-01
+Uruguay,Taxa de Desemprego (%),2019,8.836,2019-01-01
+Uruguay,Taxa de Desemprego (%),2020,10.413,2020-01-01
+Uruguay,Taxa de Desemprego (%),2021,9.328,2021-01-01
+Uruguay,Taxa de Desemprego (%),2022,7.877,2022-01-01
+Uruguay,Taxa de Desemprego (%),2023,8.355,2023-01-01
+Uruguay,Taxa de Desemprego (%),2024,8.209,2024-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2000,12.0995916666667,2000-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2001,13.3191166666667,2001-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2002,21.2569666666667,2002-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2003,28.2086833333333,2003-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2004,28.7037333333333,2004-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2005,24.4786,2005-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2006,24.0733583333333,2006-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2007,23.471025,2007-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2008,20.9493166666667,2008-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2009,22.5679833333333,2009-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2010,20.059275,2010-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2011,19.3142083333333,2011-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2012,20.310575,2012-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2013,20.4816083333333,2013-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2014,23.246025,2014-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2015,27.3273666666667,2015-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2016,30.1626,2016-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2017,28.6764,2017-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2018,30.7252583333333,2018-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2019,35.255375,2019-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2020,42.0132916666667,2020-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2021,43.554575,2021-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2022,41.1710833333333,2022-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2023,38.8239166666667,2023-01-01
+Uruguay,"Taxa de Câmbio (UMC/US$, média)",2024,40.2127875,2024-01-01
+Paraguay,PIB (% crescimento),2000,-2.31414056819045,2000-01-01
+Paraguay,PIB (% crescimento),2001,-0.834054716746095,2001-01-01
+Paraguay,PIB (% crescimento),2002,-0.0214043949985694,2002-01-01
+Paraguay,PIB (% crescimento),2003,4.32074548551591,2003-01-01
+Paraguay,PIB (% crescimento),2004,4.05741836363771,2004-01-01
+Paraguay,PIB (% crescimento),2005,2.13349066459601,2005-01-01
+Paraguay,PIB (% crescimento),2006,4.80711719268376,2006-01-01
+Paraguay,PIB (% crescimento),2007,5.42162287218235,2007-01-01
+Paraguay,PIB (% crescimento),2008,6.49629211973152,2008-01-01
+Paraguay,PIB (% crescimento),2009,-0.261137328115808,2009-01-01
+Paraguay,PIB (% crescimento),2010,11.0952312685449,2010-01-01
+Paraguay,PIB (% crescimento),2011,4.28637120706239,2011-01-01
+Paraguay,PIB (% crescimento),2012,-0.708043112304196,2012-01-01
+Paraguay,PIB (% crescimento),2013,8.29307648937821,2013-01-01
+Paraguay,PIB (% crescimento),2014,5.30123864475758,2014-01-01
+Paraguay,PIB (% crescimento),2015,2.95715168364671,2015-01-01
+Paraguay,PIB (% crescimento),2016,4.26802583314358,2016-01-01
+Paraguay,PIB (% crescimento),2017,4.81007885552178,2017-01-01
+Paraguay,PIB (% crescimento),2018,3.20425034080199,2018-01-01
+Paraguay,PIB (% crescimento),2019,-0.401855100701937,2019-01-01
+Paraguay,PIB (% crescimento),2020,-0.819785390945569,2020-01-01
+Paraguay,PIB (% crescimento),2021,4.01673731776404,2021-01-01
+Paraguay,PIB (% crescimento),2022,0.176038366149214,2022-01-01
+Paraguay,PIB (% crescimento),2023,4.9992279112746,2023-01-01
+Paraguay,PIB (% crescimento),2024,4.24996010464072,2024-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2000,8.98215976750022,2000-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2001,7.26806028584825,2001-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2002,10.5102420856612,2002-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2003,14.2367970499143,2003-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2004,4.32326492967491,2004-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2005,6.80738203116377,2005-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2006,9.58934941129229,2006-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2007,8.13047417698577,2007-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2008,10.1547846489023,2008-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2009,2.59194673430567,2009-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2010,4.65116279069765,2010-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2011,8.2539682539683,2011-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2012,3.67591897974496,2012-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2013,2.68385738718582,2013-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2014,5.02882767456766,2014-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2015,3.12900274473925,2015-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2016,4.08682280577241,2016-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2017,3.60247741348943,2017-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2018,3.97561015740694,2018-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2019,2.75709727562775,2019-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2020,1.76751592356698,2020-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2021,4.787983101236,2021-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2022,9.76556667164402,2022-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2023,4.63202285403356,2023-01-01
+Paraguay,"Taxa de Inflação (%, CPI)",2024,3.83540271728533,2024-01-01
+Paraguay,Taxa de Juros real (%),2000,14.2035386384804,2000-01-01
+Paraguay,Taxa de Juros real (%),2001,16.4268997545601,2001-01-01
+Paraguay,Taxa de Juros real (%),2002,22.6570046799308,2002-01-01
+Paraguay,Taxa de Juros real (%),2003,37.0207819032744,2003-01-01
+Paraguay,Taxa de Juros real (%),2004,24.0813135946872,2004-01-01
+Paraguay,Taxa de Juros real (%),2005,19.134850825752,2005-01-01
+Paraguay,Taxa de Juros real (%),2006,23.8660041047369,2006-01-01
+Paraguay,Taxa de Juros real (%),2007,14.4583502460761,2007-01-01
+Paraguay,Taxa de Juros real (%),2008,15.6831246484358,2008-01-01
+Paraguay,Taxa de Juros real (%),2009,27.9872353879995,2009-01-01
+Paraguay,Taxa de Juros real (%),2010,24.301762401239,2010-01-01
+Paraguay,Taxa de Juros real (%),2011,11.7058473871612,2011-01-01
+Paraguay,Taxa de Juros real (%),2012,11.7942698365486,2012-01-01
+Paraguay,Taxa de Juros real (%),2013,14.3120851574043,2013-01-01
+Paraguay,Taxa de Juros real (%),2014,17.8199443895401,2014-01-01
+Paraguay,Taxa de Juros real (%),2015,17.8457423889668,2015-01-01
+Paraguay,Taxa de Juros real (%),2016,13.3865990752067,2016-01-01
+Paraguay,Taxa de Juros real (%),2017,14.5093886137229,2017-01-01
+Paraguay,Taxa de Juros real (%),2018,13.4929626363383,2018-01-01
+Paraguay,Taxa de Juros real (%),2019,12.0533260672502,2019-01-01
+Paraguay,Taxa de Juros real (%),2020,11.0890000854079,2020-01-01
+Paraguay,Taxa de Juros real (%),2021,3.74521256188977,2021-01-01
+Paraguay,Taxa de Juros real (%),2022,NA,2022-01-01
+Paraguay,Taxa de Juros real (%),2023,NA,2023-01-01
+Paraguay,Taxa de Juros real (%),2024,NA,2024-01-01
+Paraguay,Taxa de Desemprego (%),2000,7.61,2000-01-01
+Paraguay,Taxa de Desemprego (%),2001,6.206,2001-01-01
+Paraguay,Taxa de Desemprego (%),2002,9.393,2002-01-01
+Paraguay,Taxa de Desemprego (%),2003,6.814,2003-01-01
+Paraguay,Taxa de Desemprego (%),2004,6.513,2004-01-01
+Paraguay,Taxa de Desemprego (%),2005,4.825,2005-01-01
+Paraguay,Taxa de Desemprego (%),2006,5.277,2006-01-01
+Paraguay,Taxa de Desemprego (%),2007,4.713,2007-01-01
+Paraguay,Taxa de Desemprego (%),2008,4.415,2008-01-01
+Paraguay,Taxa de Desemprego (%),2009,5.46,2009-01-01
+Paraguay,Taxa de Desemprego (%),2010,4.569,2010-01-01
+Paraguay,Taxa de Desemprego (%),2011,4.67,2011-01-01
+Paraguay,Taxa de Desemprego (%),2012,4.085,2012-01-01
+Paraguay,Taxa de Desemprego (%),2013,4.385,2013-01-01
+Paraguay,Taxa de Desemprego (%),2014,5.034,2014-01-01
+Paraguay,Taxa de Desemprego (%),2015,4.556,2015-01-01
+Paraguay,Taxa de Desemprego (%),2016,5.255,2016-01-01
+Paraguay,Taxa de Desemprego (%),2017,6.138,2017-01-01
+Paraguay,Taxa de Desemprego (%),2018,6.217,2018-01-01
+Paraguay,Taxa de Desemprego (%),2019,6.595,2019-01-01
+Paraguay,Taxa de Desemprego (%),2020,7.548,2020-01-01
+Paraguay,Taxa de Desemprego (%),2021,7.311,2021-01-01
+Paraguay,Taxa de Desemprego (%),2022,6.755,2022-01-01
+Paraguay,Taxa de Desemprego (%),2023,5.794,2023-01-01
+Paraguay,Taxa de Desemprego (%),2024,5.686,2024-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2000,3486.35333333333,2000-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2001,4105.925,2001-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2002,5716.25833333333,2002-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2003,6424.33916666667,2003-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2004,5974.5775,2004-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2005,6177.9349469697,2005-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2006,5635.09393939394,2006-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2007,5032.71157647908,2007-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2008,4363.29160824492,2008-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2009,4966.68229650212,2009-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2010,4758.43012878788,2010-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2011,4193.8023075919,2011-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2012,4421.65928640414,2012-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2013,4303.88256599819,2013-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2014,4462.18528829093,2014-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2015,5204.92080811087,2015-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2016,5670.54089799784,2016-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2017,5618.9334516428,2017-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2018,5732.10455572912,2018-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2019,6240.72207844257,2019-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2020,6771.09742519652,2020-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2021,6774.16273484849,2021-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2022,6982.75237776692,2022-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2023,7288.87205374128,2023-01-01
+Paraguay,"Taxa de Câmbio (UMC/US$, média)",2024,7560.24758837744,2024-01-01
+"Venezuela, RB",PIB (% crescimento),2000,3.6869441668769,2000-01-01
+"Venezuela, RB",PIB (% crescimento),2001,3.39423610779077,2001-01-01
+"Venezuela, RB",PIB (% crescimento),2002,-8.85564735286771,2002-01-01
+"Venezuela, RB",PIB (% crescimento),2003,-7.75530004959877,2003-01-01
+"Venezuela, RB",PIB (% crescimento),2004,18.2866066891244,2004-01-01
+"Venezuela, RB",PIB (% crescimento),2005,10.3179138043147,2005-01-01
+"Venezuela, RB",PIB (% crescimento),2006,9.87214910851037,2006-01-01
+"Venezuela, RB",PIB (% crescimento),2007,8.75357880785845,2007-01-01
+"Venezuela, RB",PIB (% crescimento),2008,5.27785412398785,2008-01-01
+"Venezuela, RB",PIB (% crescimento),2009,-3.20230265749002,2009-01-01
+"Venezuela, RB",PIB (% crescimento),2010,-1.48879125078356,2010-01-01
+"Venezuela, RB",PIB (% crescimento),2011,4.17642535923936,2011-01-01
+"Venezuela, RB",PIB (% crescimento),2012,5.62595697508632,2012-01-01
+"Venezuela, RB",PIB (% crescimento),2013,1.34309403607486,2013-01-01
+"Venezuela, RB",PIB (% crescimento),2014,-3.89438647450667,2014-01-01
+"Venezuela, RB",PIB (% crescimento),2015,-6.22137102671199,2015-01-01
+"Venezuela, RB",PIB (% crescimento),2016,-17.0403345996548,2016-01-01
+"Venezuela, RB",PIB (% crescimento),2017,-15.6714088720003,2017-01-01
+"Venezuela, RB",PIB (% crescimento),2018,-19.6553415972227,2018-01-01
+"Venezuela, RB",PIB (% crescimento),2019,-27.6579678662627,2019-01-01
+"Venezuela, RB",PIB (% crescimento),2020,-29.9985699155957,2020-01-01
+"Venezuela, RB",PIB (% crescimento),2021,0.955433428579269,2021-01-01
+"Venezuela, RB",PIB (% crescimento),2022,8.00091310654791,2022-01-01
+"Venezuela, RB",PIB (% crescimento),2023,4.00168591128376,2023-01-01
+"Venezuela, RB",PIB (% crescimento),2024,5.29999999999984,2024-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2000,NA,2000-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2001,NA,2001-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2002,NA,2002-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2003,NA,2003-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2004,NA,2004-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2005,NA,2005-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2006,NA,2006-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2007,NA,2007-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2008,NA,2008-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2009,27.080941446613,2009-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2010,28.1874647092039,2010-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2011,26.0902123160959,2011-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2012,21.0689956331876,2012-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2013,40.6394275161589,2013-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2014,62.1686499794829,2014-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2015,121.738085297503,2015-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2016,254.948534781816,2016-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2017,NA,2017-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2018,NA,2018-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2019,NA,2019-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2020,NA,2020-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2021,NA,2021-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2022,NA,2022-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2023,NA,2023-01-01
+"Venezuela, RB","Taxa de Inflação (%, CPI)",2024,NA,2024-01-01
+"Venezuela, RB",Taxa de Juros real (%),2000,-3.2858753296361,2000-01-01
+"Venezuela, RB",Taxa de Juros real (%),2001,13.3844231339627,2001-01-01
+"Venezuela, RB",Taxa de Juros real (%),2002,2.67218994668386,2002-01-01
+"Venezuela, RB",Taxa de Juros real (%),2003,-7.21866989625879,2003-01-01
+"Venezuela, RB",Taxa de Juros real (%),2004,-11.5391025879983,2004-01-01
+"Venezuela, RB",Taxa de Juros real (%),2005,-9.8722931586193,2005-01-01
+"Venezuela, RB",Taxa de Juros real (%),2006,-2.05899917326324,2006-01-01
+"Venezuela, RB",Taxa de Juros real (%),2007,1.43485845305455,2007-01-01
+"Venezuela, RB",Taxa de Juros real (%),2008,-5.96439961739872,2008-01-01
+"Venezuela, RB",Taxa de Juros real (%),2009,11.1856446074341,2009-01-01
+"Venezuela, RB",Taxa de Juros real (%),2010,-18.9085587466057,2010-01-01
+"Venezuela, RB",Taxa de Juros real (%),2011,-8.58311384652377,2011-01-01
+"Venezuela, RB",Taxa de Juros real (%),2012,-3.73490739702865,2012-01-01
+"Venezuela, RB",Taxa de Juros real (%),2013,-16.6927476369503,2013-01-01
+"Venezuela, RB",Taxa de Juros real (%),2014,-42.7246127062301,2014-01-01
+"Venezuela, RB",Taxa de Juros real (%),2015,-49.3082677085364,2015-01-01
+"Venezuela, RB",Taxa de Juros real (%),2016,-70.3603635303755,2016-01-01
+"Venezuela, RB",Taxa de Juros real (%),2017,-89.4708018720893,2017-01-01
+"Venezuela, RB",Taxa de Juros real (%),2018,NA,2018-01-01
+"Venezuela, RB",Taxa de Juros real (%),2019,NA,2019-01-01
+"Venezuela, RB",Taxa de Juros real (%),2020,NA,2020-01-01
+"Venezuela, RB",Taxa de Juros real (%),2021,NA,2021-01-01
+"Venezuela, RB",Taxa de Juros real (%),2022,NA,2022-01-01
+"Venezuela, RB",Taxa de Juros real (%),2023,NA,2023-01-01
+"Venezuela, RB",Taxa de Juros real (%),2024,NA,2024-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2000,13.99,2000-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2001,13.04,2001-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2002,16.17,2002-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2003,16.78,2003-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2004,15.07,2004-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2005,10.663,2005-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2006,8.606,2006-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2007,7.279,2007-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2008,6.245,2008-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2009,6.097,2009-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2010,7.112,2010-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2011,6.902,2011-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2012,6.601,2012-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2013,7.54,2013-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2014,NA,2014-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2015,NA,2015-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2016,5.319,2016-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2017,5.045,2017-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2018,NA,2018-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2019,NA,2019-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2020,7.53,2020-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2021,NA,2021-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2022,NA,2022-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2023,NA,2023-01-01
+"Venezuela, RB",Taxa de Desemprego (%),2024,NA,2024-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2000,0.679966666666667,2000-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2001,0.723658333333333,2001-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2002,1.16095,2002-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2003,1.60695833333333,2003-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2004,1.89133333333333,2004-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2005,2.08975,2005-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2006,2.147,2006-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2007,2.147,2007-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2008,2.147,2008-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2009,2.147,2009-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2010,2.58206031746032,2010-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2011,4.2893,2011-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2012,4.2893,2012-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2013,6.04796184166667,2013-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2014,6.2842,2014-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2015,6.2842,2015-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2016,9.25734444444167,2016-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2017,9.975,2017-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2018,NA,2018-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2019,NA,2019-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2020,NA,2020-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2021,NA,2021-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2022,NA,2022-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2023,NA,2023-01-01
+"Venezuela, RB","Taxa de Câmbio (UMC/US$, média)",2024,NA,2024-01-01
+Ecuador,PIB (% crescimento),2000,1.09180164720277,2000-01-01
+Ecuador,PIB (% crescimento),2001,4.20627185748789,2001-01-01
+Ecuador,PIB (% crescimento),2002,4.92809549611376,2002-01-01
+Ecuador,PIB (% crescimento),2003,2.88450036512064,2003-01-01
+Ecuador,PIB (% crescimento),2004,6.83239736646514,2004-01-01
+Ecuador,PIB (% crescimento),2005,5.39862243994342,2005-01-01
+Ecuador,PIB (% crescimento),2006,4.34113198577639,2006-01-01
+Ecuador,PIB (% crescimento),2007,1.90242859700484,2007-01-01
+Ecuador,PIB (% crescimento),2008,6.56492068224719,2008-01-01
+Ecuador,PIB (% crescimento),2009,1.0910129698311,2009-01-01
+Ecuador,PIB (% crescimento),2010,4.02913787986621,2010-01-01
+Ecuador,PIB (% crescimento),2011,8.48147656332823,2011-01-01
+Ecuador,PIB (% crescimento),2012,5.783212336172,2012-01-01
+Ecuador,PIB (% crescimento),2013,7.21123653679159,2013-01-01
+Ecuador,PIB (% crescimento),2014,4.22606520388456,2014-01-01
+Ecuador,PIB (% crescimento),2015,0.119692109287612,2015-01-01
+Ecuador,PIB (% crescimento),2016,-0.687954245877947,2016-01-01
+Ecuador,PIB (% crescimento),2017,5.97039880954841,2017-01-01
+Ecuador,PIB (% crescimento),2018,1.04429460679607,2018-01-01
+Ecuador,PIB (% crescimento),2019,0.1654044646003,2019-01-01
+Ecuador,PIB (% crescimento),2020,-9.24509619165865,2020-01-01
+Ecuador,PIB (% crescimento),2021,9.42189269033631,2021-01-01
+Ecuador,PIB (% crescimento),2022,5.86842354862311,2022-01-01
+Ecuador,PIB (% crescimento),2023,1.98823813984235,2023-01-01
+Ecuador,PIB (% crescimento),2024,-2.00125476341026,2024-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2000,96.0963756926096,2000-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2001,37.6767454518094,2001-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2002,12.4835980082095,2002-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2003,7.92936487461556,2003-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2004,2.74323198926704,2004-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2005,2.1682770118372,2005-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2006,3.29874846258215,2006-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2007,2.27618478002121,2007-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2008,8.40009593987462,2008-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2009,5.15996829181047,2009-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2010,3.55437734567843,2010-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2011,4.4745326579584,2011-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2012,5.10172180958666,2012-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2013,2.72177577710371,2013-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2014,3.58922016616663,2014-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2015,3.96664623255358,2015-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2016,1.72826463324533,2016-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2017,0.417335588666825,2017-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2018,-0.224103246005552,2018-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2019,0.266012515466155,2019-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2020,-0.338872392562139,2020-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2021,0.133251386096389,2021-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2022,3.46616972213077,2022-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2023,2.21568764237058,2023-01-01
+Ecuador,"Taxa de Inflação (%, CPI)",2024,1.54732515615369,2024-01-01
+Ecuador,Taxa de Juros real (%),2000,NA,2000-01-01
+Ecuador,Taxa de Juros real (%),2001,NA,2001-01-01
+Ecuador,Taxa de Juros real (%),2002,NA,2002-01-01
+Ecuador,Taxa de Juros real (%),2003,NA,2003-01-01
+Ecuador,Taxa de Juros real (%),2004,NA,2004-01-01
+Ecuador,Taxa de Juros real (%),2005,NA,2005-01-01
+Ecuador,Taxa de Juros real (%),2006,NA,2006-01-01
+Ecuador,Taxa de Juros real (%),2007,NA,2007-01-01
+Ecuador,Taxa de Juros real (%),2008,NA,2008-01-01
+Ecuador,Taxa de Juros real (%),2009,NA,2009-01-01
+Ecuador,Taxa de Juros real (%),2010,NA,2010-01-01
+Ecuador,Taxa de Juros real (%),2011,NA,2011-01-01
+Ecuador,Taxa de Juros real (%),2012,NA,2012-01-01
+Ecuador,Taxa de Juros real (%),2013,NA,2013-01-01
+Ecuador,Taxa de Juros real (%),2014,NA,2014-01-01
+Ecuador,Taxa de Juros real (%),2015,NA,2015-01-01
+Ecuador,Taxa de Juros real (%),2016,NA,2016-01-01
+Ecuador,Taxa de Juros real (%),2017,NA,2017-01-01
+Ecuador,Taxa de Juros real (%),2018,NA,2018-01-01
+Ecuador,Taxa de Juros real (%),2019,NA,2019-01-01
+Ecuador,Taxa de Juros real (%),2020,NA,2020-01-01
+Ecuador,Taxa de Juros real (%),2021,NA,2021-01-01
+Ecuador,Taxa de Juros real (%),2022,NA,2022-01-01
+Ecuador,Taxa de Juros real (%),2023,NA,2023-01-01
+Ecuador,Taxa de Juros real (%),2024,NA,2024-01-01
+Ecuador,Taxa de Desemprego (%),2000,4.8,2000-01-01
+Ecuador,Taxa de Desemprego (%),2001,4.252,2001-01-01
+Ecuador,Taxa de Desemprego (%),2002,NA,2002-01-01
+Ecuador,Taxa de Desemprego (%),2003,5.662,2003-01-01
+Ecuador,Taxa de Desemprego (%),2004,5.002,2004-01-01
+Ecuador,Taxa de Desemprego (%),2005,3.779,2005-01-01
+Ecuador,Taxa de Desemprego (%),2006,3.55,2006-01-01
+Ecuador,Taxa de Desemprego (%),2007,3.142,2007-01-01
+Ecuador,Taxa de Desemprego (%),2008,3.917,2008-01-01
+Ecuador,Taxa de Desemprego (%),2009,4.608,2009-01-01
+Ecuador,Taxa de Desemprego (%),2010,4.088,2010-01-01
+Ecuador,Taxa de Desemprego (%),2011,3.458,2011-01-01
+Ecuador,Taxa de Desemprego (%),2012,3.235,2012-01-01
+Ecuador,Taxa de Desemprego (%),2013,3.083,2013-01-01
+Ecuador,Taxa de Desemprego (%),2014,3.48,2014-01-01
+Ecuador,Taxa de Desemprego (%),2015,3.616,2015-01-01
+Ecuador,Taxa de Desemprego (%),2016,4.597,2016-01-01
+Ecuador,Taxa de Desemprego (%),2017,3.836,2017-01-01
+Ecuador,Taxa de Desemprego (%),2018,3.53,2018-01-01
+Ecuador,Taxa de Desemprego (%),2019,3.812,2019-01-01
+Ecuador,Taxa de Desemprego (%),2020,6.116,2020-01-01
+Ecuador,Taxa de Desemprego (%),2021,4.504,2021-01-01
+Ecuador,Taxa de Desemprego (%),2022,3.713,2022-01-01
+Ecuador,Taxa de Desemprego (%),2023,3.51,2023-01-01
+Ecuador,Taxa de Desemprego (%),2024,3.453,2024-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2000,1,2000-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2001,1,2001-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2002,1,2002-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2003,1,2003-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2004,1,2004-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2005,1,2005-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2006,1,2006-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2007,1,2007-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2008,1,2008-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2009,1,2009-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2010,1,2010-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2011,1,2011-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2012,1,2012-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2013,1,2013-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2014,1,2014-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2015,1,2015-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2016,1,2016-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2017,1,2017-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2018,1,2018-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2019,1,2019-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2020,1,2020-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2021,1,2021-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2022,1,2022-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2023,1,2023-01-01
+Ecuador,"Taxa de Câmbio (UMC/US$, média)",2024,1,2024-01-01
+Guyana,PIB (% crescimento),2000,-1.36380390261873,2000-01-01
+Guyana,PIB (% crescimento),2001,2.2795216592191,2001-01-01
+Guyana,PIB (% crescimento),2002,1.13262696199476,2002-01-01
+Guyana,PIB (% crescimento),2003,-0.632225388266377,2003-01-01
+Guyana,PIB (% crescimento),2004,1.56335211034042,2004-01-01
+Guyana,PIB (% crescimento),2005,-1.95095759501714,2005-01-01
+Guyana,PIB (% crescimento),2006,5.12960934773,2006-01-01
+Guyana,PIB (% crescimento),2007,7.19123624057457,2007-01-01
+Guyana,PIB (% crescimento),2008,1.75522349592019,2008-01-01
+Guyana,PIB (% crescimento),2009,3.61150847218585,2009-01-01
+Guyana,PIB (% crescimento),2010,4.13844160137342,2010-01-01
+Guyana,PIB (% crescimento),2011,5.19625156051602,2011-01-01
+Guyana,PIB (% crescimento),2012,5.27633062046809,2012-01-01
+Guyana,PIB (% crescimento),2013,3.65338433338232,2013-01-01
+Guyana,PIB (% crescimento),2014,1.68649445019584,2014-01-01
+Guyana,PIB (% crescimento),2015,0.687404590619494,2015-01-01
+Guyana,PIB (% crescimento),2016,3.80745626378814,2016-01-01
+Guyana,PIB (% crescimento),2017,3.73449154571284,2017-01-01
+Guyana,PIB (% crescimento),2018,4.44091288475967,2018-01-01
+Guyana,PIB (% crescimento),2019,5.35284003535665,2019-01-01
+Guyana,PIB (% crescimento),2020,43.479651716849,2020-01-01
+Guyana,PIB (% crescimento),2021,20.0599975568418,2021-01-01
+Guyana,PIB (% crescimento),2022,63.3346343654855,2022-01-01
+Guyana,PIB (% crescimento),2023,33.795011115873,2023-01-01
+Guyana,PIB (% crescimento),2024,43.8193108024355,2024-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2000,6.14854333024871,2000-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2001,2.62741314203332,2001-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2002,5.3410152137741,2002-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2003,5.98097814066473,2003-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2004,4.66846622369882,2004-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2005,6.92554303890157,2005-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2006,6.67715790410028,2006-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2007,12.2001544446648,2007-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2008,8.10202206969276,2008-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2009,2.95230096381001,2009-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2010,3.73337757704246,2010-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2011,4.9777356370697,2011-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2012,2.39193521312334,2012-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2013,1.90125181860582,2013-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2014,0.852630497539914,2014-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2015,-1.00173432776374,2015-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2016,0.836008061506207,2016-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2017,1.90465615515584,2017-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2018,1.28284288443528,2018-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2019,2.08723089162013,2019-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2020,0.99333702283873,2020-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2021,5.03285574626702,2021-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2022,6.11505550109935,2022-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2023,2.82110335099641,2023-01-01
+Guyana,"Taxa de Inflação (%, CPI)",2024,2.90395226446373,2024-01-01
+Guyana,Taxa de Juros real (%),2000,10.0534953418167,2000-01-01
+Guyana,Taxa de Juros real (%),2001,16.6319781955821,2001-01-01
+Guyana,Taxa de Juros real (%),2002,13.3564755150324,2002-01-01
+Guyana,Taxa de Juros real (%),2003,9.81042651108707,2003-01-01
+Guyana,Taxa de Juros real (%),2004,7.27362353382847,2004-01-01
+Guyana,Taxa de Juros real (%),2005,6.41851576086257,2005-01-01
+Guyana,Taxa de Juros real (%),2006,-58.3271742993337,2006-01-01
+Guyana,Taxa de Juros real (%),2007,5.91420681228494,2007-01-01
+Guyana,Taxa de Juros real (%),2008,4.58925923220444,2008-01-01
+Guyana,Taxa de Juros real (%),2009,13.2356719952726,2009-01-01
+Guyana,Taxa de Juros real (%),2010,10.1656425967412,2010-01-01
+Guyana,Taxa de Juros real (%),2011,11.7587764160364,2011-01-01
+Guyana,Taxa de Juros real (%),2012,8.72119167293919,2012-01-01
+Guyana,Taxa de Juros real (%),2013,14.1124191336406,2013-01-01
+Guyana,Taxa de Juros real (%),2014,15.260022323101,2014-01-01
+Guyana,Taxa de Juros real (%),2015,9.54233962133676,2015-01-01
+Guyana,Taxa de Juros real (%),2016,11.9940959906913,2016-01-01
+Guyana,Taxa de Juros real (%),2017,10.66604440961,2017-01-01
+Guyana,Taxa de Juros real (%),2018,16.3598774102234,2018-01-01
+Guyana,Taxa de Juros real (%),2019,7.30175934817455,2019-01-01
+Guyana,Taxa de Juros real (%),2020,48.5203312216654,2020-01-01
+Guyana,Taxa de Juros real (%),2021,-11.0626956511272,2021-01-01
+Guyana,Taxa de Juros real (%),2022,-3.25162203798925,2022-01-01
+Guyana,Taxa de Juros real (%),2023,26.1442166832254,2023-01-01
+Guyana,Taxa de Juros real (%),2024,6.9220971861463,2024-01-01
+Guyana,Taxa de Desemprego (%),2000,NA,2000-01-01
+Guyana,Taxa de Desemprego (%),2001,NA,2001-01-01
+Guyana,Taxa de Desemprego (%),2002,11.81,2002-01-01
+Guyana,Taxa de Desemprego (%),2003,NA,2003-01-01
+Guyana,Taxa de Desemprego (%),2004,NA,2004-01-01
+Guyana,Taxa de Desemprego (%),2005,NA,2005-01-01
+Guyana,Taxa de Desemprego (%),2006,10.7,2006-01-01
+Guyana,Taxa de Desemprego (%),2007,NA,2007-01-01
+Guyana,Taxa de Desemprego (%),2008,NA,2008-01-01
+Guyana,Taxa de Desemprego (%),2009,NA,2009-01-01
+Guyana,Taxa de Desemprego (%),2010,NA,2010-01-01
+Guyana,Taxa de Desemprego (%),2011,NA,2011-01-01
+Guyana,Taxa de Desemprego (%),2012,NA,2012-01-01
+Guyana,Taxa de Desemprego (%),2013,NA,2013-01-01
+Guyana,Taxa de Desemprego (%),2014,NA,2014-01-01
+Guyana,Taxa de Desemprego (%),2015,NA,2015-01-01
+Guyana,Taxa de Desemprego (%),2016,NA,2016-01-01
+Guyana,Taxa de Desemprego (%),2017,NA,2017-01-01
+Guyana,Taxa de Desemprego (%),2018,13.627,2018-01-01
+Guyana,Taxa de Desemprego (%),2019,13.172,2019-01-01
+Guyana,Taxa de Desemprego (%),2020,NA,2020-01-01
+Guyana,Taxa de Desemprego (%),2021,NA,2021-01-01
+Guyana,Taxa de Desemprego (%),2022,NA,2022-01-01
+Guyana,Taxa de Desemprego (%),2023,NA,2023-01-01
+Guyana,Taxa de Desemprego (%),2024,NA,2024-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2000,182.43,2000-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2001,187.320833333333,2001-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2002,190.665,2002-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2003,193.878333333333,2003-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2004,198.3075,2004-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2005,199.875,2005-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2006,200.188333333333,2006-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2007,202.346666666667,2007-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2008,203.633333333333,2008-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2009,203.95,2009-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2010,203.635833333333,2010-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2011,204.0175,2011-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2012,204.358333333333,2012-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2013,205.394166666667,2013-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2014,206.449166666667,2014-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2015,206.5,2015-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2016,206.5,2016-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2017,206.5,2017-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2018,207.716666666667,2018-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2019,208.5,2019-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2020,208.5,2020-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2021,208.5,2021-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2022,208.5,2022-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2023,208.5,2023-01-01
+Guyana,"Taxa de Câmbio (UMC/US$, média)",2024,208.5,2024-01-01
+Peru,PIB (% crescimento),2000,2.69437139806912,2000-01-01
+Peru,PIB (% crescimento),2001,0.617892325624297,2001-01-01
+Peru,PIB (% crescimento),2002,5.45352893818767,2002-01-01
+Peru,PIB (% crescimento),2003,4.16502313666112,2003-01-01
+Peru,PIB (% crescimento),2004,4.95820320611745,2004-01-01
+Peru,PIB (% crescimento),2005,6.28506032509601,2005-01-01
+Peru,PIB (% crescimento),2006,7.5288990440594,2006-01-01
+Peru,PIB (% crescimento),2007,8.5183877690955,2007-01-01
+Peru,PIB (% crescimento),2008,9.1265683014642,2008-01-01
+Peru,PIB (% crescimento),2009,1.0958236592427,2009-01-01
+Peru,PIB (% crescimento),2010,8.33245910749577,2010-01-01
+Peru,PIB (% crescimento),2011,6.32719240161117,2011-01-01
+Peru,PIB (% crescimento),2012,6.13972470560435,2012-01-01
+Peru,PIB (% crescimento),2013,5.85251821084928,2013-01-01
+Peru,PIB (% crescimento),2014,2.38215737180541,2014-01-01
+Peru,PIB (% crescimento),2015,3.25224477218451,2015-01-01
+Peru,PIB (% crescimento),2016,3.95331871520767,2016-01-01
+Peru,PIB (% crescimento),2017,2.51883544233135,2017-01-01
+Peru,PIB (% crescimento),2018,3.969351341365,2018-01-01
+Peru,PIB (% crescimento),2019,2.24063176875049,2019-01-01
+Peru,PIB (% crescimento),2020,-10.9333065010382,2020-01-01
+Peru,PIB (% crescimento),2021,13.3626240903125,2021-01-01
+Peru,PIB (% crescimento),2022,2.8090335533015,2022-01-01
+Peru,PIB (% crescimento),2023,-0.403242151494268,2023-01-01
+Peru,PIB (% crescimento),2024,3.30394098171516,2024-01-01
+Peru,"Taxa de Inflação (%, CPI)",2000,3.75733833344474,2000-01-01
+Peru,"Taxa de Inflação (%, CPI)",2001,1.97709878502053,2001-01-01
+Peru,"Taxa de Inflação (%, CPI)",2002,0.193135003853722,2002-01-01
+Peru,"Taxa de Inflação (%, CPI)",2003,2.25937753363072,2003-01-01
+Peru,"Taxa de Inflação (%, CPI)",2004,3.66247320092233,2004-01-01
+Peru,"Taxa de Inflação (%, CPI)",2005,1.61630193862544,2005-01-01
+Peru,"Taxa de Inflação (%, CPI)",2006,2.00225801248819,2006-01-01
+Peru,"Taxa de Inflação (%, CPI)",2007,1.77998644680372,2007-01-01
+Peru,"Taxa de Inflação (%, CPI)",2008,5.78587598206755,2008-01-01
+Peru,"Taxa de Inflação (%, CPI)",2009,2.936231535967,2009-01-01
+Peru,"Taxa de Inflação (%, CPI)",2010,1.52832059732901,2010-01-01
+Peru,"Taxa de Inflação (%, CPI)",2011,3.36931095333853,2011-01-01
+Peru,"Taxa de Inflação (%, CPI)",2012,3.61121294940163,2012-01-01
+Peru,"Taxa de Inflação (%, CPI)",2013,2.76789666082002,2013-01-01
+Peru,"Taxa de Inflação (%, CPI)",2014,3.41194579807465,2014-01-01
+Peru,"Taxa de Inflação (%, CPI)",2015,3.39809194746308,2015-01-01
+Peru,"Taxa de Inflação (%, CPI)",2016,3.55717663556279,2016-01-01
+Peru,"Taxa de Inflação (%, CPI)",2017,2.99490045809443,2017-01-01
+Peru,"Taxa de Inflação (%, CPI)",2018,1.50915423024742,2018-01-01
+Peru,"Taxa de Inflação (%, CPI)",2019,2.25212191358027,2019-01-01
+Peru,"Taxa de Inflação (%, CPI)",2020,2.00241205759292,2020-01-01
+Peru,"Taxa de Inflação (%, CPI)",2021,4.27166381536798,2021-01-01
+Peru,"Taxa de Inflação (%, CPI)",2022,8.33370630096231,2022-01-01
+Peru,"Taxa de Inflação (%, CPI)",2023,6.45561348369586,2023-01-01
+Peru,"Taxa de Inflação (%, CPI)",2024,2.00770739412712,2024-01-01
+Peru,Taxa de Juros real (%),2000,25.5698477470948,2000-01-01
+Peru,Taxa de Juros real (%),2001,24.411950042159,2001-01-01
+Peru,Taxa de Juros real (%),2002,20.6338458601459,2002-01-01
+Peru,Taxa de Juros real (%),2003,18.8715495126426,2003-01-01
+Peru,Taxa de Juros real (%),2004,17.308705204716,2004-01-01
+Peru,Taxa de Juros real (%),2005,21.284368194887,2005-01-01
+Peru,Taxa de Juros real (%),2006,15.1194989096292,2006-01-01
+Peru,Taxa de Juros real (%),2007,21.0511674102817,2007-01-01
+Peru,Taxa de Juros real (%),2008,22.323874594588,2008-01-01
+Peru,Taxa de Juros real (%),2009,18.5944908019559,2009-01-01
+Peru,Taxa de Juros real (%),2010,12.5494733748355,2010-01-01
+Peru,Taxa de Juros real (%),2011,11.1780878633624,2011-01-01
+Peru,Taxa de Juros real (%),2012,17.8200224863401,2012-01-01
+Peru,Taxa de Juros real (%),2013,16.903308069059,2013-01-01
+Peru,Taxa de Juros real (%),2014,12.994785090205,2014-01-01
+Peru,Taxa de Juros real (%),2015,13.0638220152775,2015-01-01
+Peru,Taxa de Juros real (%),2016,12.9852567811511,2016-01-01
+Peru,Taxa de Juros real (%),2017,12.7122035671679,2017-01-01
+Peru,Taxa de Juros real (%),2018,11.9886777000573,2018-01-01
+Peru,Taxa de Juros real (%),2019,12.2832644568721,2019-01-01
+Peru,Taxa de Juros real (%),2020,8.888580606911,2020-01-01
+Peru,Taxa de Juros real (%),2021,0.832240862309597,2021-01-01
+Peru,Taxa de Juros real (%),2022,7.73476381927593,2022-01-01
+Peru,Taxa de Juros real (%),2023,NA,2023-01-01
+Peru,Taxa de Juros real (%),2024,NA,2024-01-01
+Peru,Taxa de Desemprego (%),2000,4.069,2000-01-01
+Peru,Taxa de Desemprego (%),2001,4.848,2001-01-01
+Peru,Taxa de Desemprego (%),2002,4.84,2002-01-01
+Peru,Taxa de Desemprego (%),2003,4.151,2003-01-01
+Peru,Taxa de Desemprego (%),2004,4.707,2004-01-01
+Peru,Taxa de Desemprego (%),2005,4.866,2005-01-01
+Peru,Taxa de Desemprego (%),2006,4.172,2006-01-01
+Peru,Taxa de Desemprego (%),2007,4.078,2007-01-01
+Peru,Taxa de Desemprego (%),2008,4.025,2008-01-01
+Peru,Taxa de Desemprego (%),2009,3.964,2009-01-01
+Peru,Taxa de Desemprego (%),2010,3.595,2010-01-01
+Peru,Taxa de Desemprego (%),2011,3.477,2011-01-01
+Peru,Taxa de Desemprego (%),2012,3.238,2012-01-01
+Peru,Taxa de Desemprego (%),2013,3.575,2013-01-01
+Peru,Taxa de Desemprego (%),2014,3.208,2014-01-01
+Peru,Taxa de Desemprego (%),2015,3.272,2015-01-01
+Peru,Taxa de Desemprego (%),2016,3.741,2016-01-01
+Peru,Taxa de Desemprego (%),2017,3.691,2017-01-01
+Peru,Taxa de Desemprego (%),2018,3.492,2018-01-01
+Peru,Taxa de Desemprego (%),2019,3.379,2019-01-01
+Peru,Taxa de Desemprego (%),2020,7.179,2020-01-01
+Peru,Taxa de Desemprego (%),2021,5.097,2021-01-01
+Peru,Taxa de Desemprego (%),2022,4.291,2022-01-01
+Peru,Taxa de Desemprego (%),2023,4.899,2023-01-01
+Peru,Taxa de Desemprego (%),2024,5.199,2024-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2000,3.49,2000-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2001,3.50683333333333,2001-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2002,3.5165,2002-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2003,3.478467,2003-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2004,3.413175,2004-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2005,3.29584166666667,2005-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2006,3.27403250265816,2006-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2007,3.12804457735247,2007-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2008,2.92440833333333,2008-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2009,3.01150833333333,2009-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2010,2.825125,2010-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2011,2.7541,2011-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2012,2.63758641774892,2012-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2013,2.70189902597403,2013-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2014,2.8390441378066398,2014-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2015,3.18443924152237,2015-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2016,3.37506158720665,2016-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2017,3.2604884908321,2017-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2018,3.28660269803296,2018-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2019,3.3372655465368,2019-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2020,3.4949411976912,2020-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2021,3.88055413137587,2021-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2022,3.83518137473542,2022-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2023,3.74382620959376,2023-01-01
+Peru,"Taxa de Câmbio (UMC/US$, média)",2024,3.7525,2024-01-01
+Suriname,PIB (% crescimento),2000,2.09999886750489,2000-01-01
+Suriname,PIB (% crescimento),2001,4.20000042083539,2001-01-01
+Suriname,PIB (% crescimento),2002,2.80000068850687,2002-01-01
+Suriname,PIB (% crescimento),2003,6.29999943314137,2003-01-01
+Suriname,PIB (% crescimento),2004,8.50000018479413,2004-01-01
+Suriname,PIB (% crescimento),2005,4.50000021086888,2005-01-01
+Suriname,PIB (% crescimento),2006,5.79354358463304,2006-01-01
+Suriname,PIB (% crescimento),2007,5.11148777773458,2007-01-01
+Suriname,PIB (% crescimento),2008,4.14340681165626,2008-01-01
+Suriname,PIB (% crescimento),2009,3.01369898266211,2009-01-01
+Suriname,PIB (% crescimento),2010,5.16882515225814,2010-01-01
+Suriname,PIB (% crescimento),2011,5.84936767173009,2011-01-01
+Suriname,PIB (% crescimento),2012,2.69034974668847,2012-01-01
+Suriname,PIB (% crescimento),2013,2.9334416518612,2013-01-01
+Suriname,PIB (% crescimento),2014,0.255503031645475,2014-01-01
+Suriname,PIB (% crescimento),2015,-3.41304268067621,2015-01-01
+Suriname,PIB (% crescimento),2016,-4.91166050905851,2016-01-01
+Suriname,PIB (% crescimento),2017,1.56603782534897,2017-01-01
+Suriname,PIB (% crescimento),2018,4.94827108468886,2018-01-01
+Suriname,PIB (% crescimento),2019,1.16758977233877,2019-01-01
+Suriname,PIB (% crescimento),2020,-15.9751917148622,2020-01-01
+Suriname,PIB (% crescimento),2021,-2.43538583612838,2021-01-01
+Suriname,PIB (% crescimento),2022,2.40622235601218,2022-01-01
+Suriname,PIB (% crescimento),2023,2.41659223498058,2023-01-01
+Suriname,PIB (% crescimento),2024,1.72095737011739,2024-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2000,59.401686545079,2000-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2001,38.5862878872611,2001-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2002,15.5273989185702,2002-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2003,23.0022321778219,2003-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2004,9.98632511974878,2004-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2005,9.89800489561465,2005-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2006,11.2813043273975,2006-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2007,6.42627934470524,2007-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2008,14.6671427437912,2008-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2009,-0.133636646714877,2009-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2010,6.94108221639996,2010-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2011,17.7117796414558,2011-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2012,5.00686319367273,2012-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2013,1.92343604108305,2013-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2014,3.38341272749477,2014-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2015,6.89390359168238,2015-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2016,55.4123879763196,2016-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2017,21.9969430173304,2017-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2018,NA,2018-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2019,NA,2019-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2020,34.889784309078,2020-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2021,59.1196626251977,2021-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2022,52.446027276241,2022-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2023,51.5873159600861,2023-01-01
+Suriname,"Taxa de Inflação (%, CPI)",2024,16.2296159130279,2024-01-01
+Suriname,Taxa de Juros real (%),2000,-19.7475825715864,2000-01-01
+Suriname,Taxa de Juros real (%),2001,-9.89407700981861,2001-01-01
+Suriname,Taxa de Juros real (%),2002,-11.1091919583685,2002-01-01
+Suriname,Taxa de Juros real (%),2003,-0.227758122513344,2003-01-01
+Suriname,Taxa de Juros real (%),2004,6.7386374104178,2004-01-01
+Suriname,Taxa de Juros real (%),2005,1.60999747937889,2005-01-01
+Suriname,Taxa de Juros real (%),2006,-16.8261723542528,2006-01-01
+Suriname,Taxa de Juros real (%),2007,6.89823963534927,2007-01-01
+Suriname,Taxa de Juros real (%),2008,-2.87492239735718,2008-01-01
+Suriname,Taxa de Juros real (%),2009,4.85180307175705,2009-01-01
+Suriname,Taxa de Juros real (%),2010,4.09900197173043,2010-01-01
+Suriname,Taxa de Juros real (%),2011,-1.82998633360084,2011-01-01
+Suriname,Taxa de Juros real (%),2012,0.908894422312256,2012-01-01
+Suriname,Taxa de Juros real (%),2013,11.5552221319595,2013-01-01
+Suriname,Taxa de Juros real (%),2014,10.5328389572179,2014-01-01
+Suriname,Taxa de Juros real (%),2015,7.40270503379035,2015-01-01
+Suriname,Taxa de Juros real (%),2016,-8.53234849128662,2016-01-01
+Suriname,Taxa de Juros real (%),2017,-10.7066949477175,2017-01-01
+Suriname,Taxa de Juros real (%),2018,8.17572653651772,2018-01-01
+Suriname,Taxa de Juros real (%),2019,9.30349148093913,2019-01-01
+Suriname,Taxa de Juros real (%),2020,-20.948951476167,2020-01-01
+Suriname,Taxa de Juros real (%),2021,-29.1137816722331,2021-01-01
+Suriname,Taxa de Juros real (%),2022,-23.205748142401,2022-01-01
+Suriname,Taxa de Juros real (%),2023,-14.2202605946803,2023-01-01
+Suriname,Taxa de Juros real (%),2024,1.75968116241682,2024-01-01
+Suriname,Taxa de Desemprego (%),2000,NA,2000-01-01
+Suriname,Taxa de Desemprego (%),2001,NA,2001-01-01
+Suriname,Taxa de Desemprego (%),2002,NA,2002-01-01
+Suriname,Taxa de Desemprego (%),2003,NA,2003-01-01
+Suriname,Taxa de Desemprego (%),2004,9.49,2004-01-01
+Suriname,Taxa de Desemprego (%),2005,NA,2005-01-01
+Suriname,Taxa de Desemprego (%),2006,NA,2006-01-01
+Suriname,Taxa de Desemprego (%),2007,NA,2007-01-01
+Suriname,Taxa de Desemprego (%),2008,NA,2008-01-01
+Suriname,Taxa de Desemprego (%),2009,8.72,2009-01-01
+Suriname,Taxa de Desemprego (%),2010,7.15,2010-01-01
+Suriname,Taxa de Desemprego (%),2011,7.54,2011-01-01
+Suriname,Taxa de Desemprego (%),2012,8.1,2012-01-01
+Suriname,Taxa de Desemprego (%),2013,6.6,2013-01-01
+Suriname,Taxa de Desemprego (%),2014,6.94,2014-01-01
+Suriname,Taxa de Desemprego (%),2015,7.22,2015-01-01
+Suriname,Taxa de Desemprego (%),2016,7.917,2016-01-01
+Suriname,Taxa de Desemprego (%),2017,NA,2017-01-01
+Suriname,Taxa de Desemprego (%),2018,NA,2018-01-01
+Suriname,Taxa de Desemprego (%),2019,NA,2019-01-01
+Suriname,Taxa de Desemprego (%),2020,NA,2020-01-01
+Suriname,Taxa de Desemprego (%),2021,NA,2021-01-01
+Suriname,Taxa de Desemprego (%),2022,NA,2022-01-01
+Suriname,Taxa de Desemprego (%),2023,NA,2023-01-01
+Suriname,Taxa de Desemprego (%),2024,NA,2024-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2000,1.32249051547874,2000-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2001,2.17818225423409,2001-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2002,2.34675,2002-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2003,2.60133333333333,2003-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2004,2.7335829756752,2004-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2005,2.73166666547869,2005-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2006,2.74375,2006-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2007,2.745,2007-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2008,2.745,2008-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2009,2.745,2009-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2010,2.74541666666667,2010-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2011,3.268,2011-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2012,3.3,2012-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2013,3.3,2013-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2014,3.3,2014-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2015,3.41666666666667,2015-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2016,6.22863027848978,2016-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2017,7.487661125,2017-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2018,7.4625111984127,2018-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2019,7.458,2019-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2020,9.30954545454546,2020-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2021,18.2386666666667,2021-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2022,24.7091747565789,2022-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2023,36.7758691666667,2023-01-01
+Suriname,"Taxa de Câmbio (UMC/US$, média)",2024,33.1805516666667,2024-01-01
+,,2000,NA,2000-01-01
+,,2001,NA,2001-01-01
+,,2002,NA,2002-01-01
+,,2003,NA,2003-01-01
+,,2004,NA,2004-01-01
+,,2005,NA,2005-01-01
+,,2006,NA,2006-01-01
+,,2007,NA,2007-01-01
+,,2008,NA,2008-01-01
+,,2009,NA,2009-01-01
+,,2010,NA,2010-01-01
+,,2011,NA,2011-01-01
+,,2012,NA,2012-01-01
+,,2013,NA,2013-01-01
+,,2014,NA,2014-01-01
+,,2015,NA,2015-01-01
+,,2016,NA,2016-01-01
+,,2017,NA,2017-01-01
+,,2018,NA,2018-01-01
+,,2019,NA,2019-01-01
+,,2020,NA,2020-01-01
+,,2021,NA,2021-01-01
+,,2022,NA,2022-01-01
+,,2023,NA,2023-01-01
+,,2024,NA,2024-01-01
+,,2000,NA,2000-01-01
+,,2001,NA,2001-01-01
+,,2002,NA,2002-01-01
+,,2003,NA,2003-01-01
+,,2004,NA,2004-01-01
+,,2005,NA,2005-01-01
+,,2006,NA,2006-01-01
+,,2007,NA,2007-01-01
+,,2008,NA,2008-01-01
+,,2009,NA,2009-01-01
+,,2010,NA,2010-01-01
+,,2011,NA,2011-01-01
+,,2012,NA,2012-01-01
+,,2013,NA,2013-01-01
+,,2014,NA,2014-01-01
+,,2015,NA,2015-01-01
+,,2016,NA,2016-01-01
+,,2017,NA,2017-01-01
+,,2018,NA,2018-01-01
+,,2019,NA,2019-01-01
+,,2020,NA,2020-01-01
+,,2021,NA,2021-01-01
+,,2022,NA,2022-01-01
+,,2023,NA,2023-01-01
+,,2024,NA,2024-01-01
+,,2000,NA,2000-01-01
+,,2001,NA,2001-01-01
+,,2002,NA,2002-01-01
+,,2003,NA,2003-01-01
+,,2004,NA,2004-01-01
+,,2005,NA,2005-01-01
+,,2006,NA,2006-01-01
+,,2007,NA,2007-01-01
+,,2008,NA,2008-01-01
+,,2009,NA,2009-01-01
+,,2010,NA,2010-01-01
+,,2011,NA,2011-01-01
+,,2012,NA,2012-01-01
+,,2013,NA,2013-01-01
+,,2014,NA,2014-01-01
+,,2015,NA,2015-01-01
+,,2016,NA,2016-01-01
+,,2017,NA,2017-01-01
+,,2018,NA,2018-01-01
+,,2019,NA,2019-01-01
+,,2020,NA,2020-01-01
+,,2021,NA,2021-01-01
+,,2022,NA,2022-01-01
+,,2023,NA,2023-01-01
+,,2024,NA,2024-01-01
