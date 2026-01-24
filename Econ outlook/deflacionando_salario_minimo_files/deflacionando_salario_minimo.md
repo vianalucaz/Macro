@@ -104,7 +104,8 @@ p <- ggplot2::ggplot(salario_min, aes(x = date)) +
   ) +
   theme_minimal() +
   theme(legend.position = "bottom")
-
 # utilizamos o pacote plotly para que o usuário passe o mouse e veja os valores exatos com o gráfico interativo.
 plotly::ggplotly(p) 
 ```
+<img width="1344" height="960" alt="evolucao_sal_min" src="https://github.com/user-attachments/assets/453862a8-1849-46bc-bafb-eccd445c7e45" />
+
