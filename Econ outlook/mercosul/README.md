@@ -4,4 +4,4 @@ A ideia é um Dashboard simples sobre principais indicadores macroeconômicos do
 A fim de os dashboard não "quebrarem" com a mudança de url ou outras possíveis mudanças, o arquivo com os dados foi baixado e disponibilizado caso queira somente fazer
 testes ou algumas alterações.
 
-Resultado do dashboard: [Aplicativo Mercosul](https://6amlad-lucas-viana.shinyapps.io/mercosul/)
+Resultado do dashboard: [Aplicativo Mercosul](https://vianalucaz.shinyapps.io/mercosul/)
