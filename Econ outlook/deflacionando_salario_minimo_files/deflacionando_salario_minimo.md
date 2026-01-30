@@ -1,10 +1,19 @@
 ---
 title: "Deflacionando salário mínimo"
 author: "Lucas Viana"
-format: 
+format:
   html:
     theme: cosmo
-    editor: visual
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: true
+    code-tools: true
+    df-print: paged
+lang: pt-BR
+execute:
+  warning: false
+  message: false
 ---
 
 ## Por que deflacionar?
@@ -17,7 +26,7 @@ Desta forma, como entendemos que se o preço dos bens e serviços muda ao longo 
 O **INPC** costuma ser uma escolha metodológica comum, pois reflete o consumo de famílias com renda mais baixa, de 1 a 5 salários mínimos, que é a base do salário mínimo.
 :::
 
-## Carregando pacotes
+### Carregando pacotes
 
 ```{r, warning=FALSE, message=FALSE}
 if(!require("pacman")) install.packages("pacman")
@@ -25,7 +34,7 @@ pacman::p_load("ipeadatar", "sidrar", "dplyr", "tidyr", "ggplot2", "deflateBR", 
 
 ```
 
-## Carregando dados do IPEA e IBGE
+### Carregando dados do IPEA e IBGE
 
 A tabela utilizada para obter os dados do IBGE pode ser achada em [`https://sidra.ibge.gov.br/tabela/6691`](#0) e as séries de dados obtidos do IPEA podem ser consultados com `ipeadatar::available_series().`
 
