@@ -81,7 +81,7 @@ deflate <- deflateBR::deflate(nominal_values = salario_min$sal_nominal,
 ```
 
 ## Comparação
-
+Vamos comparar o resultado obtido pela utilização do `deflateBR` e do índice obtido pelo `sidrar`, logo:
 ```{r, warning=FALSE, message=FALSE}
 comparação <- salario_min |> 
   mutate(
