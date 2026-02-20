@@ -16,7 +16,7 @@ O trabalho foi desenvolvido em **Quarto (.qmd)** com **R**, combinando coleta de
   1. **Cálculo manual do fator de deflação**
   2. Uso do pacote **`deflateBR`**
 - Utilizar **dezembro de 2025** como data-base (moeda constante)
-- Visualização interativa
+- Visualização interativa com o pacote `plotly`
   
 ---
 
