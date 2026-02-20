@@ -114,14 +114,12 @@ pmc2 <- ggplot2::ggplot(data = dadosPMC20, aes(data, valor, colour = variavel,))
 
 pmc1/pmc2 #função do pacote patchwork
 
-
-
-
-
-
-
-
 ```
+
+![pmc19_20](https://github.com/user-attachments/assets/cc61ac00-b296-4305-a1ea-d07a32b8e33f)
+
+
+
 
 ## Pesquisa Industrial Mensal - PIM
 
@@ -211,6 +209,10 @@ pim1/pim2
 
 ```
 
+![pim19_20](https://github.com/user-attachments/assets/c6820dde-0e80-470a-bded-86160f56bebc)
+
+
+
 ## Pesquisa Mensal de Serviços - PMS
 
 ### Importação de dados
@@ -295,6 +297,7 @@ pms2 <- ggplot(data = dadosPMS20, aes(data, valor, colour = variavel))+
 pms1/pms2
 
 ```
+![pms19_20](https://github.com/user-attachments/assets/ef877def-65b3-44d9-99f3-55911933cfd3)
 
 ## Índice de Atividade Econômica do Banco Central – Brasil (IBC-Br)
 
@@ -342,6 +345,9 @@ ggplot2::ggplot(dadosibc, aes(data, IBC))+
     plot.caption = element_text(face = "italic", size = 8))
 
 ```
+<img width="1344" height="960" alt="ibc-br" src="https://github.com/user-attachments/assets/9f9bf48d-4950-4d0b-8906-ba4d48da8a49" />
+
+
 
 ## Taxa de Desocupação
 
@@ -394,3 +400,4 @@ ggplot2::ggplot(dados_des, aes(data, tx_desocupacao))+
   scale_x_date(date_breaks = "3 months", date_labels = "%Y-%m")
 
 ```
+<img width="1344" height="960" alt="tx_desocupacao" src="https://github.com/user-attachments/assets/5469f525-7235-4811-ac6b-1645979ca9b1" />
