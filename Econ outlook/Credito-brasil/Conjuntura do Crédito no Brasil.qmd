@@ -1,0 +1,190 @@
+---
+title: "Conjuntura do Crédito no Brasil"
+author: "Lucas Viana"
+format: 
+  html:
+    theme: "cosmo"
+    toc: true
+    toc-depth: 3
+lang: pt-BR
+execute: 
+  warning: false
+  message: false
+editor: visual
+---
+
+### Introdução
+
+Este projeto analisa a dinâmica recente do mercado de crédito brasileiro em termos reais, considerando:
+
+-   Concessões totais (deflacionadas e dessazonalizadas)
+
+-    Inadimplência
+
+-   Taxa média de juros
+
+-    Composição PF vs PJ nas concessões de crédito
+
+O objetivo é avaliar a transmissão da política monetária via canal de crédito.
+
+O período analisado é 2019-2026 início de um novo governo e no mesmo ano que antecedeu a pandemia.
+
+### Instalando pacotes
+
+```{r, message=FALSE, warning=FALSE}
+if(!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyr, dplyr, ggplot2, lubridate, deflateBR, getBCBData, ggseas)
+
+# O pacote ggseas, utilizado para tratar a sazonalidade foi removido do CRAN, mas pode ser obtido pelo GitHub apenas utilizando remotes::install_github("ellisp/ggseas/pkg")
+```
+
+### Importação de dados
+
+```{r, message=FALSE, warning=FALSE}
+
+# Os dados das séries temporais podem ser obtidos no site do Banco Central em: https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries
+
+sgst <- c(
+  # Concessões de crédito - Total - R$ (milhões)
+  "Concessões de crédito - Total" = 20631,
+  # Concessões de crédito - Pessoas jurídicas - Total - R$ (milhões)
+  "Concessões de crédito - PJ" = 20632,
+  # Concessões de crédito - Pessoas físicas - Total	- R$ (milhões)
+  "Concessões de crédito - PF" = 20633,
+  # Taxa média de juros das operações de crédito - Total - % a.a.
+  "Taxa média de juros das operações de crédito" = 20714,
+  # Inadimplência da carteira de crédito - Total - %
+  "Inadimplência da carteira de crédito" = 21082
+)
+
+#importando dados do BCB
+
+df <- GetBCBData::gbcbd_get_series(
+  id = sgst,
+  first.date = "2019-01-01",
+  use.memoise = FALSE
+)
+```
+
+### Tratamento de dados
+
+```{r, message=FALSE, warning=FALSE}
+
+df <- df |> 
+  dplyr::select(
+    "data" = "ref.date",
+    "valor" = "value",
+    "series" = "series.name" 
+  ) |> 
+  tidyr::as_tibble()
+```
+
+### Visualização
+
+#### Concessão de crédito
+
+```{r, message=FALSE, warning=FALSE}
+
+df |> 
+  dplyr::filter(series == "Concessões de crédito - Total") |> 
+  dplyr::mutate(
+    valor_real = deflateBR::deflate(
+      nominal_values = valor,
+      nominal_dates  = data,
+      real_date      = "01/2026",
+      index          = "ipca"
+    )
+  ) |> 
+  ggplot2::ggplot(aes(data, valor/1000))+
+  ggplot2::geom_line(aes(color = "Sazonalizado"), size = 1)+
+  ggseas::stat_seas(aes(color = "Dessazonalizado"),
+    frequency = 12,
+    start = c(2019, 01),
+    linewidth = 1,
+  )+
+  ggplot2::scale_color_manual(values = c("Sazonalizado" = "darkred",
+                              "Dessazonalizado" = "royalblue"))+
+  ggplot2::labs(
+    title = "Concessões de crédito - Total",
+    subtitle = "Valores deflacionados pelo IPCA a preços de JAN/2026 e ajustado sazonalmente pelo X13-SEATS-ARIMA.",
+    y = "R$ em bilhões",
+    color = "", 
+    caption = "Fonte: Banco Central"
+      )+
+  theme_bw()
+```
+
+Após o choque da pandemia no ano de 2020, podemos observar uma tendência estrutural no crédito, subindo de forma consistente. Partindo de um patamar próximo a R\$ 300 bilhões em 2019, o volume desazonalizado chega a quase R\$ 700 bilhões no final da série participação na concessão de crédito. Veremos a seguir que essa tendência segue mesmo com a elevação dos juros, isso pode indicar que o canal de crédito esteja menos sensível ao aperto monetário comparando a períodos passados.
+
+```{r, message=FALSE, warning=FALSE}
+
+df |> 
+  dplyr::filter(series %in% c("Concessões de crédito - Total",
+                              "Concessões de crédito - PJ",
+                              "Concessões de crédito - PF")
+                )|>
+  tidyr::pivot_wider(id_cols = "data", names_from = "series", values_from = "valor") |> 
+  dplyr::mutate(
+    data = data,
+    `Pessoa Jur` = `Concessões de crédito - PJ` / `Concessões de crédito - Total` * 100,
+    `Pessoa Fís` = `Concessões de crédito - PF` / `Concessões de crédito - Total` * 100,
+    .keep = "none"
+    ) %>%
+  tidyr::pivot_longer(cols = -"data", names_to = "series", values_to = "valor") |> 
+  ggplot2::ggplot(aes(data, valor, fill = series))+
+  ggplot2::geom_area()+
+  ggplot2::labs(
+    title = "Participação na concessão de crédito",
+    y = "%",
+    x = NULL,
+    fill = NULL,
+    caption = "Fonte: Banco Central"
+  )+
+  theme_bw()
+  
+  
+
+```
+
+#### Taxa de juros
+
+```{r, message=FALSE, warning=FALSE}
+
+df |> 
+  dplyr::filter(series == "Taxa média de juros das operações de crédito") |> 
+  ggplot2::ggplot(aes(data, valor))+
+  ggplot2::geom_line(size = 1, colour = "royalblue")+
+  ggplot2::labs(
+    title = "Taxa média de juros das operações de crédito",
+    y = "% a.a.",
+    x = NULL, 
+    caption = "Fonte: Banco Central"
+  )+
+  theme_bw()
+
+```
+
+#### Inadimplência
+
+```{r, message=FALSE, warning=FALSE}
+
+df |> 
+  dplyr::filter(series == "Inadimplência da carteira de crédito" ) |> 
+  ggplot2::ggplot(aes(data, valor))+
+  ggplot2::geom_line(size = 1, colour = "royalblue")+
+  ggplot2::labs(
+    title = "Inadimplência da carteira de crédito",
+    y = "%",
+    x = NULL,
+    caption = "Fonte: Banco Central"
+  )+
+  theme_bw()
+
+
+```
+
+### Conclusões
+
+Apesar do recente ciclo de aperto monetário, implementado para manter a inflação dentro da meta, o crédito real no Brasil segue em trajetória de expansão. A elevação das taxas de juros foi acompanhada por aumento da inadimplência, mas não resultou em uma contração expressiva do volume concedido. Esse comportamento pode indicar uma possível mudança estrutural no mercado de crédito brasileiro, com maior resiliência ou tolerância a patamares elevados de juros.
+
+A expansão do volume de crédito ocorre simultaneamente ao crescimento da inadimplência e ao encarecimento do custo financeiro, o que sugere um cenário de risco sistêmico mais elevado no futuro. A liquidação de instituições como os bancos Master, Will e Pleno reforça a percepção de que o BC acompanha de perto esses movimentos, avaliando potenciais fragilidades do sistema.
