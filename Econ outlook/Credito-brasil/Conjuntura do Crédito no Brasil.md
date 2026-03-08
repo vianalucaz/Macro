@@ -15,9 +15,6 @@ editor: visual
 
 # Conjuntura do Crédito no Brasil
 
-**Autor:** Lucas Viana\
-**Atualização:** Janeiro/2026
-
 ------------------------------------------------------------------------
 
 ## 1. Introdução
