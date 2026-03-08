@@ -1,12 +1,12 @@
 ### Conjuntura do Mercado de Crédito no Brasil (2019-2026)
-Este repositório contém um relatório técnico da evolução do mercado de crédito brasileiro entre 2019 e 2026, focando na transmissão da política monetária e na resiliência do volume de concessões frente ao ciclo de aperto de juros.
+Este repositório contém um relatório técnico da evolução do mercado de crédito brasileiro entre 2019 e 2026, focando na transmissão da política monetária e na baixa elasticidade do volume de concessões frente ao ciclo de aperto de juros.
 
-📊 Principais Insights da Análise
+📊 Resumo de Insights da Análise
 1. **Expansão Real do Crédito:**
 
 - Apesar da volatilidade econômica, o volume de concessões apresentou um crescimento real robusto.
 - Crescimento: De ~R$ 300 bilhões em 2019 para quase **R$ 700 bilhões** em 2026 (valores deflacionados pelo IPCA).
-- Resiliência: O canal de crédito demonstrou baixa sensibilidade à elevação da taxa Selic.
+- O canal de crédito demonstrou baixa sensibilidade à elevação da taxa Selic.
 
 2. **Juros vs. Inadimplência:**
 - Com a Taxa Média de Juros atingindo patamares próximos a 32% a.a. em 2026, a inadimplência rompeu a barreira dos 4%, sinalizando uma deterioração na capacidade de pagamento dos tomadores.
