@@ -82,8 +82,6 @@ df <- GetBCBData::gbcbd_get_series(
 
 ### 3.1 Concessões de Crédito — Total
 
-**Correção aplicada:** o código original calculava `valor_real` via `deflateBR::deflate()` mas plotava `valor/1000` (valor nominal). A versão corrigida abaixo plota efetivamente o valor deflacionado.
-
 ``` r
 df |>
   dplyr::filter(series == "Concessões de crédito - Total") |>
